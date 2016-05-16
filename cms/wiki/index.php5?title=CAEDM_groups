@@ -1,0 +1,643 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" class="no-js">
+
+
+<head profile="http://gmpg.org/xfn/11">
+	<title>CAEDM groups &#8211; CAEDM Help Pages</title>
+	<meta property="og:title" value="CAEDM groups">
+	<meta property="og:site_name" content="CAEDM Help Pages"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:description" content="CAEDM groups can be created and used by anyone with a CAEDM account.  Each group has users and resources available to be added to the group.  Groups are one of the many  collaboration resources made available by the college through CAEDM."/>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+	
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="CAEDM Help Pages" />
+	<link rel="copyright" href="/wiki/index.php/Copyright_Notice" />
+	<link rel="alternate" type="application/atom+xml" title="CAEDM Help Pages Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+
+	<!-- Insert plugin stylesheets here -->
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/slider.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/calendar.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/news.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/socialmedia.css" />
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+	<script>!window.jQuery && document.write(unescape('%3Cscript src="byuskin/template/js/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+
+
+	<script src="/wiki/skins/byuskin/template/js/libs/modernizr-2.0-basic.min.js"></script>
+
+	<!-- Insert plugin stylesheets here -->
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/byuskin/template/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/shared.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonPrint.css" media="print" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonContent.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonElements.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/resources/jquery/jquery.makeCollapsible.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/byuskin/template/css/style.css" />
+
+	<script type="text/javascript">
+// <![CDATA[
+		var erdt = {
+			More: '<span></span> Keep Reading',
+			Less: '<span></span> Put Away',
+			Info: '&#x2193; Further Information',
+			MenuShow: '<span></span> Show Menu',
+			MenuHide: '<span></span> Hide Menu',
+			DisableKeepReading: false,
+			DisableHide: true
+		};
+		(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)
+// ]]>
+	</script>
+	<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"CAEDM_groups","wgTitle":"CAEDM groups","wgCurRevisionId":6031,"wgArticleId":44,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Services"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"CAEDM_groups","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0,100,101,200,201,300]});
+}</script>	<script type="text/javascript" src="/wiki/skins/common/wikibits.js?303"><!-- wikibits js --></script>
+   </head>
+<body class="single single-post">
+
+<header id="main-header">
+		<div id="header-top" class="wrapper">
+			<div id="logo">
+								<a href="http://www.byu.edu/" class="byu"><img src="/cms/images/byulogo.png" style="width: 305px; padding-bottom: 2px;" alt="BYU Logo" usemap="#byulogo" /></a>
+				<map name="byulogo">
+					<area shape="rect" coords="0,0,115,45" href="http://www.byu.edu" />
+                                        <area shape="rect" coords="115,0,305,45" href="https://caedm.et.byu.edu" />
+                                        <area shape="rect" coords="0,45,305,180" href="http://www.et.byu.edu" />
+
+					  </map>
+							</div>
+			<div id="search-container">
+								<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Special:UserLogin&returnto=Ira+A.+Fulton+College+of+Engineering+and+Technology&dest=00" class="button">CAEDM Login</a>
+				
+								<!-- ENTER YOUR SEARCH URL under action -->
+
+
+				<form action="/wiki/index.php5/Special:Search" id="searchform">
+					<input type="text" name="search" id="search" placeholder="Search CAEDM"                         			value=""
+                        			 />
+					<input type="image" src="/wiki/skins/byuskin/template/img/search-button.png" alt="Search" id="search-button" value="Search"/>
+				</form>
+
+
+			</div>
+			<nav id="secondary-nav" class="no-js">
+			<ul>
+			<li class="nochild"><a href="https://my.byu.edu">MyBYU</a></li>
+			<li class="nochild"><a href="https://learningsuite.byu.edu">Learning Suite</a></li>
+			<li class="nochild"><a href="http://caedm.et.byu.edu/wiki/index.php5?title=Contact_Us">Contact Us</a></li>
+			</ul>
+			</div>
+			</nav>
+
+			</div>
+
+
+
+
+
+		<nav id="primary-nav" class="no-js">
+			<ul>
+				
+				<li><a href="">Accounts</a>
+					<div class="mega">
+						<ul class="links">
+
+													<li id="menu-item-n-Create-New-Account" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/accountadder">Create New Account</a>
+																						</li>
+													<li id="menu-item-n-Renew-My-Account" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/changepassform.php?dest=1">Renew My Account</a>
+																						</li>
+													<li id="menu-item-n-Change-My-Password" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/changepassform.php?dest=1">Change My Password</a>
+																						</li>
+													<li id="menu-item-n-Forgot-My-Password" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/accountadder/forgotten_password_form.php?dest=3">Forgot My Password</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Webmail-Login" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://webmail.et.byu.edu">CAEDM Webmail Login</a>
+																						</li>
+													<li id="menu-item-n-Email-.26-Database-Settings" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/cam_main.php?dest=4">Email &amp; Database Settings</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Eligibility" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account#Eligibility_for_an_Account">Eligibility</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Account" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account">CAEDM Account</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Policy" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Policy">CAEDM Policy</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account"><img src="/wiki/images/4/4b/Student_backpack.jpg" width="320" height="228"></a>
+							<p>CAEDM may be new to you, but there are many ways that you can learn how to maximize your experience with CAEDM.</p>
+						</div>
+
+					</div>
+				</li>
+				<li><a href="">Remote Computing</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-Citrix-Login" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://citrix.et.byu.edu">Citrix Login</a>
+																						</li>
+													<li id="menu-item-n-Extended-Use-RGS" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/user-xrgs.php?dest=17">Extended Use RGS</a>
+																						</li>
+													<li id="menu-item-n-Download-RGS" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">Download RGS</a>
+																						</li>
+													<li id="menu-item-n-App-Servers-Legacy-Page" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Application_servers_legacy_page">App Servers Legacy Page</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%;margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Remote-Computing-Overview" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Remote_Computing">Remote Computing Overview</a>
+																						</li>
+													<li id="menu-item-n-Store-files-on-J-Drive" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=J_Drive">Store files on J Drive</a>
+																						</li>
+													<li id="menu-item-n-Access-Software-Through-RGS" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=RGS">Access Software Through RGS</a>
+																						</li>
+													<li id="menu-item-n-Access-Software-Through-Citrix" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Citrix">Access Software Through Citrix</a>
+																						</li>
+													<li id="menu-item-n-Off-Campus-Access-via-VPN" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=VPN">Off-Campus Access via VPN</a>
+																						</li>
+													<li id="menu-item-n-Transfer-Files-With-SCP" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=SCP">Transfer Files With SCP</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=Remote_Computing"><img src="/wiki/images/4/4c/Devices.jpg" width="320" height="228"></a>
+							<p>CAEDM offers a wide variety of resources that can all be used no matter where you happen to be.  From home, work, and even from your phone, your CAEDM needs can be fulfilled.</p>
+						</div>
+
+					</div>
+				</li>
+				<li> <a href="">Files</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-My-Disk-Use" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/quota.php?dest=5">My Disk Use</a>
+																						</li>
+													<li id="menu-item-n-Restore-My-Files" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/tsm/showfiles.php?dest=6">Restore My Files</a>
+																						</li>
+													<li id="menu-item-n-My-Temporary-FTP" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/ftpuser.php?dest=7">My Temporary FTP</a>
+																						</li>
+						
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-J-Drive-Help" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=J_Drive">J Drive Help</a>
+																						</li>
+													<li id="menu-item-n-Personal-Web-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Web_Space">Personal Web Space</a>
+																						</li>
+													<li id="menu-item-n-Transfer-Files-with-SCP" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=SCP">Transfer Files with SCP</a>
+																						</li>
+													<li id="menu-item-n-MySQL-Database" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=MySQL_Database">MySQL Database</a>
+																						</li>
+													<li id="menu-item-n-Scratch-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Scratch_Space">Scratch Space</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=J_Drive"><img src="/wiki/images/Accessing_files.png" width="320" height="228"></a>
+                                                       <p>CAEDM provides file access anywhere on campus, and from home.</p>
+                                                </div>
+					</div>
+				</li>
+				<li> <a href="">Printing</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-Release-Print-Job" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/print.php?dest=8">Release Print Job</a>
+																						</li>
+													<li id="menu-item-n-Check-Print-Balance" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/print.php?dest=8">Check Print Balance</a>
+																						</li>
+													<li id="menu-item-n-Download-Print-Driver" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">Download Print Driver</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-CAEDM-Print-Driver" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_print_driver">CAEDM Print Driver</a>
+																						</li>
+													<li id="menu-item-n-Printing-in-CAEDM" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Printing">Printing in CAEDM</a>
+																						</li>
+													<li id="menu-item-n-Poster-Printing" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Plotting">Poster Printing</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=Printing"><img src="/wiki/images/c/c2/Printer_menu.jpg"></a>
+							<p>CAEDM allows you to print from the labs, but also from an individual computer.</p>
+						</div>
+					</div>
+				</li>
+				<li> <a href="">Labs and Software</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-My-Door-Code" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/doorcode.php?dest=9">My Door Code</a>
+																						</li>
+													<li id="menu-item-n-Free-Microsoft-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://msdnaa.et.byu.edu">Free Microsoft Downloads</a>
+																						</li>
+													<li id="menu-item-n-Free-VMWare-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://vmware.et.byu.edu">Free VMWare Downloads</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">CAEDM Downloads</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Lab-Resources" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Labs">Lab Resources</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Lab-Policy" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM Policy">CAEDM Lab Policy</a>
+																						</li>
+													<li id="menu-item-n-Software-Download-Help" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Free_Software">Software Download Help</a>
+																						</li>
+													<li id="menu-item-n-Department-Computer-Labs" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Department_labs">Department Computer Labs</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Labs"><img src="/wiki/images/b/b6/Lab_and_software_menu.jpg"></a>
+                                                       <p>CAEDM has 3 labs full of computers, but most resources may be accessed remotely.</p>
+                                                </div>
+					</div>
+				</li>
+				<li> <a href="">Groups</a>
+					<div class="mega">
+						<ul class="links">
+
+													<li id="menu-item-n-Manage-My-Groups" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/groups.php?dest=10">Manage My Groups</a>
+																						</li>
+													<li id="menu-item-n-Create-a-Group" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/addgroup.php?dest=12">Create a Group</a>
+																						</li>
+													<li id="menu-item-n-Email-List-Manager" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/listmanager.php?dest=11">Email List Manager</a>
+																						</li>
+												</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-CAEDM-Groups" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups">CAEDM Groups</a>
+																						</li>
+													<li id="menu-item-n-Group-File-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Filespace">Group File Space</a>
+																						</li>
+													<li id="menu-item-n-Group-Web-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedmv.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Web_Space">Group Web Space</a>
+																						</li>
+													<li id="menu-item-n-Group-Printing" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Printing">Group Printing</a>
+																						</li>
+													<li id="menu-item-n-All-Group-Collaboration-Resources" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Group_Collaboration_Resources">All Group Collaboration Resources</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Email-Lists" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5/CAEDM_Mailing_Lists">CAEDM Email Lists</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups"><img src="/wiki/images/9/93/Groups_menu.jpg" height="228" width="320"></a>
+						     <p>CAEDM provides many group collaboration resources.</p>
+						 </div>
+					</div>
+				</li>
+                        
+                         </ul>
+
+
+                      
+                      			</ul>
+		</nav>
+	</header>
+
+	<div id="content" class="wrapper">
+
+<!--    <div id="wrapper" class="hfeed">      -->
+
+
+
+
+		<div id="container">
+			<div id="content-container" class="post type-post hentry category-submissions">
+								<h1 class="entry-title">CAEDM groups</h1>
+								<div class="entry-content">
+
+				<!-- INSERT WIKI STUFF HERE -->
+
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/index.php5/File:Groups_blue.jpg" class="image"><img alt="" src="/wiki/images/thumb/5/50/Groups_blue.jpg/250px-Groups_blue.jpg" width="250" height="237" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:Groups_blue.jpg" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>CAEDM groups are used for class assignments, clubs, research, department files, and more.</div></div></div>
+<p>CAEDM groups can be created and used by anyone with a <a href="/wiki/index.php5/CAEDM_account" title="CAEDM account">CAEDM account</a>.  Each group has users and resources available to be added to the group.  Groups are one of the many <a href="/wiki/index.php5/Group_Collaboration_Resources" title="Group Collaboration Resources"> collaboration resources</a> made available by the college through CAEDM.
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Group_Users"><span class="tocnumber">1</span> <span class="toctext">Group Users</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Default_Group_Resources"><span class="tocnumber">2</span> <span class="toctext">Default Group Resources</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Group_Filespace"><span class="tocnumber">2.1</span> <span class="toctext">Group Filespace</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Fast_Space"><span class="tocnumber">2.1.1</span> <span class="toctext">Fast Space</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Big_Space"><span class="tocnumber">2.1.2</span> <span class="toctext">Big Space</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Group_Web_Space"><span class="tocnumber">2.2</span> <span class="toctext">Group Web Space</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Optional_Group_Resources"><span class="tocnumber">3</span> <span class="toctext">Optional Group Resources</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Scratch_Space"><span class="tocnumber">3.1</span> <span class="toctext">Scratch Space</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Important_Scratch_Space_Facts"><span class="tocnumber">3.1.1</span> <span class="toctext">Important Scratch Space Facts</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#How_to_Create_a_Scratch_Space"><span class="tocnumber">3.1.2</span> <span class="toctext">How to Create a Scratch Space</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Group_Printing"><span class="tocnumber">3.2</span> <span class="toctext">Group Printing</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Enabling_Group_Printing"><span class="tocnumber">3.2.1</span> <span class="toctext">Enabling Group Printing</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#How_to_use_Group_Printing"><span class="tocnumber">3.2.2</span> <span class="toctext">How to use Group Printing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Group_Database"><span class="tocnumber">3.3</span> <span class="toctext">Group Database</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Group_Management_Instructions"><span class="tocnumber">4</span> <span class="toctext">Group Management Instructions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Creating_a_Group"><span class="tocnumber">4.1</span> <span class="toctext">Creating a Group</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Deleting_a_Group"><span class="tocnumber">4.2</span> <span class="toctext">Deleting a Group</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Additional_Quota"><span class="tocnumber">4.3</span> <span class="toctext">Additional Quota</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Modifying_a_Group"><span class="tocnumber">4.4</span> <span class="toctext">Modifying a Group</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="#Renewing_a_Group"><span class="tocnumber">4.4.1</span> <span class="toctext">Renewing a Group</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Relinquishing_ownership_of_a_Group"><span class="tocnumber">4.4.2</span> <span class="toctext">Relinquishing ownership of a Group</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Editing_Group_Members"><span class="tocnumber">4.4.3</span> <span class="toctext">Editing Group Members</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Editing_Group_Managers"><span class="tocnumber">4.4.4</span> <span class="toctext">Editing Group Managers</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Auto_Populating_a_Group"><span class="tocnumber">4.4.5</span> <span class="toctext">Auto Populating a Group</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Adding_Scratch_Space"><span class="tocnumber">4.4.6</span> <span class="toctext">Adding Scratch Space</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Group_Users">Group Users</span></h2>
+<p>A group needs an owner, and may have managers and members. 
+</p>
+<ul><li>The <b>group owner</b> is responsible for creating and renewing the group.  They are the only person who may add group managers and request additional filespace quota for the group.  The group owner must be the user to request <a href="/wiki/index.php5/CAEDM_groups#Optional_Group_Resources" title="CAEDM groups"> optional group resources</a>.  An owner may <a href="/wiki/index.php5/CAEDM_groups#Relinquishing_ownership_of_a_Group" title="CAEDM groups">relinquish ownership</a> of their group at any time.  The group owner has all of the privileges of a group manager.  An owner does not need to be a member, but will need to be if they need access to any of the group resources.
+</li><li>A <b>group manager</b> may add and remove members from the group.  If the group is owned by a user who could teach coursework, then the manager can use the <a href="/wiki/index.php5/CAEDM_groups#Autopopulate_Feature" title="CAEDM groups"> Autopopulate feature</a> to add and remove users from the group.  A group manager will need to also be a member if they need access to group resources.  A group may have many managers.  It is not necessary to add the owner as a manager.
+</li><li><b>Group members</b> have access to the resources of a group.  Group members may be full-access members or read-only members.  Read-only members have full-access to all group resources except creating or editing files to the group filespace.
+</li></ul>
+<h2> <span class="mw-headline" id="Default_Group_Resources">Default Group Resources</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/index.php5/CAEDM_Groups_Video" title="CAEDM Groups Video"><img alt="" src="/wiki/images/thumb/4/43/Groups.png/180px-Groups.png" width="180" height="135" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:Groups.png" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Video: CAEDM Groups</div></div></div>
+<h3> <span class="mw-headline" id="Group_Filespace">Group Filespace</span></h3>
+<p>By default, each group is given a generous amount of filespace to share.  Files created in a group space can be edited and deleted by any full-access member.  Read-only members will be able to read and copy files from this filespace.  Changes made to files on a group space affect other users.  Keep this in mind when deleting files that others may still be interested in.  
+</p><p>There is a <a href="/wiki/index.php5/J_Drive#Group_Filespace_Quotas" title="J Drive"> quota</a>, or limit to the number of gigabytes, you can store on your group filespace.  <a href="/wiki/index.php5/J_Drive#Group_Filespace_Quotas" title="J Drive"> Group quotas</a> do not count against <a href="/wiki/index.php5/J_Drive#Account_Quota" title="J Drive"> personal filespace quotas</a>.    
+</p><p>To access group files:
+From Windows
+</p>
+<ul><li>Log off and then back on.
+</li><li>Go to J:\groups.
+</li><li>Click on the folder with your group's name.
+</li></ul>
+<p>From Linux
+</p>
+<ul><li>Go to $HOME/groups.
+</li><li>Click or cd into the folder with your group's name.
+</li></ul>
+<p><b>DO NOT DELETE THE GROUPS FOLDER!!!</b> The groups folder is a container for all of your groups.  If you delete the groups folder, your operating system may systematically delete every file in every group you are a member of.  This could potentially affect many other students, faculty and staff.
+</p>
+<h4> <span class="mw-headline" id="Fast_Space">Fast Space</span></h4>
+<p>Fast Space, as the name implies, uses high-speed, enterprise-grade hard disk drives that can handle reading and writing small, scattered chunks of data continuously for an extended period of time.  While high-performance disks are significantly faster than a disk you might buy at a retail store, they don't hold nearly as much data.  For this reason, the quotas are smaller.  
+</p><p>Fast Space works best for highly-random workloads, such as group projects for classes, small data sets that are actively read and written, compiling source code, rendering models, presentations, documents, spreadsheets, small videos, images, etc.
+</p>
+<h4> <span class="mw-headline" id="Big_Space">Big Space</span></h4>
+<p>Big Space uses enterprise-grade disks that are much larger, and the quotas are also much larger.  The downside is the disks are slower, providing roughly the same performance as a common disk you would buy at a retail store.  
+</p><p>Big Space is best for large streaming workloads and large data sets that are referred to periodically, but not on an active, continuous basis.  Examples of streaming workloads would include reviewing the results from finite element analysis, batch results, simulations, data sampled from lab equipment during an experiment, video clips of student projects or capstone projects, large image repositories, etc.  Large numbers of smaller files such as office suite documents are also welcome to be stored in Big Space groups, just keep in mind that the disks are larger and slower than Fast Space.  The more serialized your workload is the better.
+</p><p>If you decide to use big space for your group and the need arises later to reprocess or compute against that data, you can still add <a href="/wiki/index.php5/Scratch_Space" title="Scratch Space" class="mw-redirect">Scratch Space</a> to the group and temporarily copy the relevant data sets to that high-performance <a href="/wiki/index.php5/Scratch_Space" title="Scratch Space" class="mw-redirect">Scratch Space</a> area.  Any final results from the processing can be written back to Big Space if done so in a streaming fashion, or copied from <a href="/wiki/index.php5/Scratch_Space" title="Scratch Space" class="mw-redirect">Scratch Space</a> to Big Space when the results are complete.
+</p>
+<h3> <span class="mw-headline" id="Group_Web_Space">Group Web Space</span></h3>
+<p>Every group file space is created with a www folder.  Files placed in this folder are published to the web at <a rel="nofollow" class="external free" href="http://-groupname-.groups.et.byu.net">http://-groupname-.groups.et.byu.net</a>.  Group web spaces are subject to group quota limits and have all of the same <a href="/wiki/index.php5/Web_Space" title="Web Space">resources and limitations</a> as user webspaces.
+</p>
+<h2> <span class="mw-headline" id="Optional_Group_Resources">Optional Group Resources</span></h2>
+<h3> <span class="mw-headline" id="Scratch_Space">Scratch Space</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:102px;"><a href="/wiki/index.php5/File:Scratchspace.png" class="image"><img alt="" src="/wiki/images/thumb/7/79/Scratchspace.png/100px-Scratchspace.png" width="100" height="111" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:Scratchspace.png" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Scratch space has no quota, but is not backed up.</div></div></div>Scratch space allows groups to have a temporary location to store large files.  Unlike the standard <a href="/wiki/index.php5/J_Drive" title="J Drive">J Drive</a>, or a <a href="/wiki/index.php5/CAEDM_groups#Group_Filespace" title="CAEDM groups"> group filespace</a>, a scratch space does not have an enforced <a href="/wiki/index.php5/J_Drive#Quota" title="J Drive"> quota</a>.  Scratch space is however, intended as a <b>temporary</b> location for data.  <b>Files placed here are not backed up</b>.  
+<p>The scratch space is a pooled resource.  When the community pool fills to near capacity, the oldest files in the space are deleted to clear the dead wood and allow for new, temporary storage.  The space itself is many terabytes in size and typically does not cycle very often.  
+</p>
+<h4> <span class="mw-headline" id="Important_Scratch_Space_Facts">Important Scratch Space Facts</span></h4>
+<ul><li>There is no quota
+</li><li>Files are not backed up
+</li><li>This is temporary storage
+</li><li>You need to wait 15 minutes for scratch space to appear after creating it
+</li></ul>
+<h4> <span class="mw-headline" id="How_to_Create_a_Scratch_Space">How to Create a Scratch Space</span></h4>
+<p>Use the CAEDM website as outlined below, to <a href="/wiki/index.php5/CAEDM_groups#Adding_Scratch_Space" title="CAEDM groups">modify a group to have scratch space</a>.
+</p>
+<h3> <span class="mw-headline" id="Group_Printing">Group Printing</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/index.php5/File:Group_print.png" class="image"><img alt="" src="/wiki/images/thumb/7/76/Group_print.png/180px-Group_print.png" width="180" height="101" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:Group_print.png" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Group printing may be useful for departments and research groups, enabling students to print using common funds.</div></div></div>Group printing provides a method for any user in a CAEDM group, with group printing enabled, to charge printing costs of selected jobs to specific group print accounts.  For example, a student could print a research document for a professor in the CAEDM lab, and  the professor's research account would directly cover the cost of the print job.
+<h4> <span class="mw-headline" id="Enabling_Group_Printing">Enabling Group Printing</span></h4>
+<p>To set up this feature, you will first need an existing CAEDM group.  Even if the sole purpose of the group will be to share printing costs, all of the <a href="/wiki/index.php5/CAEDM_groups#Default_Group_Resources" title="CAEDM groups"> default group resources</a> need to be created for this group.  After the CAEDM group has been created, a CAEDM employee can add the print feature to your group account.  You will need to provide a journal entry from your department or research group to initiate a balance on your account.  A professor or department secretary can help you with a journal entry.  You will need to decide how much money you would like to pre-load onto your group print balance.  <a href="/wiki/index.php5/Contact_Us" title="Contact Us"> Contact a CAEDM employee</a> to have this feature enabled.
+</p>
+<h4> <span class="mw-headline" id="How_to_use_Group_Printing">How to use Group Printing</span></h4>
+<p>To print using a CAEDM group account balance, print as normal and select "Charge a group account" on the CAEDM Print Driver dialog.  For instance, if a student wanted to print to ctb450psa, using a group print balance, they would print to CAEDM and select "ctb450psa" + "Charge a group account". 
+</p><p>After the job is sent to the printer, you need to release the print job.  This step is necessary to authorize the use of group funds, and to select which group will pay for the desired print.
+</p><p>To release a print job:
+</p>
+<ul><li>Login into caedm.et.byu.edu and follow the menu: <a rel="nofollow" class="external text" href="https://caedm.et.byu.edu/cms-new/print.php?dest=8">Printing-&gt;Release Print Job</a>. 
+</li><li>Find the job you just sent to the group queue, and release the job.  
+</li><li>If enough money is in your group account to print the job, the job will print immediately to the printer you chose.
+</li></ul>
+<h3> <span class="mw-headline" id="Group_Database">Group Database</span></h3>
+<p>A group may request a MySQL database.  The database must be for legitimate academic purposes related to the college.  <a href="/wiki/index.php5/MySQL_Database#Creating_a_database" title="MySQL Database"> Click here for database creation instructions</a>.
+</p>
+<h2> <span class="mw-headline" id="Group_Management_Instructions">Group Management Instructions</span></h2>
+<h3> <span class="mw-headline" id="Creating_a_Group">Creating a Group</span></h3>
+<p>When you create a group, you become it's <a href="/wiki/index.php5/CAEDM_groups#Group_Users" title="CAEDM groups"> owner</a>.  There are some responsibilities that only an <a href="/wiki/index.php5/CAEDM_groups#Group_Users" title="CAEDM groups"> owner</a> may be responsible for.  It is possible to <a href="/wiki/index.php5/CAEDM_groups#Relinquishing_ownership_of_a_Group" title="CAEDM groups">relinquish ownership</a> of a group.  When a group is created, it will already have all of the <a href="/wiki/index.php5/CAEDM_groups#Default_Group_Resources" title="CAEDM groups"> default resources</a>.  The owner may add <a href="/wiki/index.php5/CAEDM_groups#Optional_Group_Resources" title="CAEDM groups"> optional resources</a> later.  Note that owners and managers will also need to be members if they wish to use the <a href="/wiki/index.php5/CAEDM_groups#Group_Filespace" title="CAEDM groups"> filespace</a> associated with the group.  Each CAEDM user is limited to the number of groups that they may create.  This number depends on the circumstances of the account; faculty, staff and students may have different allowances as to the number of groups that they are authorized to create.
+To create a group:
+</p>
+<ol><li>From the CAEDM website, select "Create a Group" from the Groups menu
+</li><li>Follow the detailed instructions on the "Create a Group" webpage.
+</li></ol>
+<h3> <span class="mw-headline" id="Deleting_a_Group">Deleting a Group</span></h3>
+<p>Deleting a group makes resources available for other users.  If you are done with the resources in your group, delete it.  It is good practice to make sure the <a href="/wiki/index.php5/CAEDM_groups#Group_Users" title="CAEDM groups"> members</a> of the group are finished with shared resources before you delete the group.
+To delete a group:
+</p>
+<ol><li>From the CAEDM website, select "Manage My Groups" from the Groups menu
+</li><li>Click the "Delete <i>groupname</i>" button for the group you wish to delete.
+</li></ol>
+<h3> <span class="mw-headline" id="Additional_Quota">Additional Quota</span></h3>
+<p>It may be possible to request more filespace to your group.  
+</p>
+<h3> <span class="mw-headline" id="Modifying_a_Group">Modifying a Group</span></h3>
+<p>Most features of a group may be configured by <a href="/wiki/index.php5/CAEDM_groups#group_users" title="CAEDM groups"> group owners</a> and <a href="/wiki/index.php5/CAEDM_groups#Group_Users" title="CAEDM groups"> managers</a> from the Groups menu of the CAEDM website.  Exceptions are <a href="/wiki/index.php5/CAEDM_groups#Group_Database" title="CAEDM groups"> adding a database to a group</a>, and <a href="/wiki/index.php5/CAEDM_groups#Group_Printing" title="CAEDM groups"> group printing</a>.
+</p>
+<h4> <span class="mw-headline" id="Renewing_a_Group">Renewing a Group</span></h4>
+<p>Renewing a group will allow the group to exist for another few months to a year.  The exact timeframe depends on who owns the group.  For example, groups owned by faculty are not renewed as often as groups owned by undergraduate students.
+To renew a group:
+</p>
+<ol><li>From the CAEDM website, select "Manage My Groups" from the Groups menu
+</li><li>Click the "modify" button of the group you wish to renew.
+</li><li>Click the "Renew this group" button
+</li></ol>
+<h4> <span class="mw-headline" id="Relinquishing_ownership_of_a_Group">Relinquishing ownership of a Group</span></h4>
+<p>When an owner of a group leaves the university, groups that user owns will need to be given to another user.  It is best practice to complete this process before the group owner retires or graduates, etc.  Finding an owner of a group becomes more difficult once they have left the university.
+To give a group away:
+</p>
+<ol><li>From the CAEDM website, select "Manage My Groups" from the Groups menu
+</li><li>Click the "modify" button of the group you wish to renew.
+</li><li>Click the "Give Group to Someone Else" button
+</li></ol>
+<h4> <span class="mw-headline" id="Editing_Group_Members">Editing Group Members</span></h4>
+<p>Owners and managers may manually add and remove both full access and read-only members to a group.  Members may also be Auto Populated by class section.
+</p><p>Allow 15 minutes for group membership changes to take effect. Newly added members must refresh their group memberships by logging out of their computer and back in. Otherwise they will get an "Access Denied" error.
+</p><p>To Edit Group Members:
+</p>
+<ol><li>From the CAEDM website, select "Manage My Groups" from the Groups menu
+</li><li>Click the "modify" button of the group you wish to edit membership of.
+</li><li>Click the "Edit Members" icon in the left sidebar.
+</li><li>Follow the detailed instructions on the Edit Group Membership webpage.
+</li><li>Allow 15 minutes for group membership changes to take effect.
+</li><li>If you added group members, ask them to log out of and back into their computer.
+</li></ol>
+<h4> <span class="mw-headline" id="Editing_Group_Managers">Editing Group Managers</span></h4>
+<p>A group owner may delegate adding and removing users from a group to group managers.  This feature may be useful to delegating this responsibility to department employees or research assistants.
+To Edit the List of Group Managers:
+</p>
+<ol><li>From the CAEDM website, select "Manage My Groups" from the Groups menu
+</li><li>Click the "modify" button of the group you wish to edit managers of.
+</li><li>Click the "Edit Managers" icon in the left sidebar.
+</li><li>Follow the detailed instructions on the Edit Group Managers webpage.
+</li></ol>
+<h4> <span class="mw-headline" id="Auto_Populating_a_Group">Auto Populating a Group</span></h4>
+<p>This feature is available to users who are involved in teaching coursework. Auto Populate Courses adds and removes membership in a group based on enrollment in specified class sections. Group membership may change daily as people add and drop classes.  A group may have a combination of manually added members and Auto Populated members.
+To use this feature: 
+</p>
+<ol><li>From the CAEDM website, select "Manage My Groups" from the Groups menu
+</li><li>Click the "modify" button of the group you wish to Auto Populate.  
+</li><li>Click the 'Autopopulate" icon in the left sidebar.
+</li><li>Follow the detailed instructions on the Auto Populate webpage.
+</li></ol>
+<h4> <span class="mw-headline" id="Adding_Scratch_Space">Adding Scratch Space</span></h4>
+<p>Group managers or owners can use the CAEDM website to add scratch space for a particular group. After adding the scratch space, it may take up to 15 minutes for it to be created. 
+</p>
+<ol><li>From the CAEDM website, select "Manage My Groups" from the Groups menu
+</li><li>Under the section, "You are the owner of the following groups" click on the button "Modify -groupname-".
+</li><li>Scroll down and look for the option to "Create" scratch space. Select it and click the button to submit the changes for the group.
+</li><li>Within the next 15 minutes a folder called scratch will be linked in your groups' group folder -homedir-/groups/-groupname-/scratch
+</li><li>In this folder you can store temporary files.
+</li><li>Be sure to save irreplaceable files elsewhere, since all files left in scratch will eventually be removed.
+</li></ol>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 99/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key mediawiki:pcache:idhash:44-0!*!0!!en!2!* and timestamp 20160512060805 -->
+</div><div class="printfooter">
+Retrieved from "<a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups&amp;oldid=6031">https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups&amp;oldid=6031</a>"</div>
+
+
+
+
+			</div>
+	</div><!-- #container -->
+
+ 	</div>     
+
+</div>
+
+
+<div id="footer-bottom">
+	
+		<div class="wrapper">
+					  <div class="region region-footer-bottom">
+					      <div id="block-block-1" class="block block-block first last odd">
+					      <div class="content">
+
+
+			<p class="rtecenter">
+						<div class="rtecenter" style="float: right; margin-right: -37px"><a align=right href="http://www.youtube.com/byucaedm"><img src="/wiki/skins/byuskin/template/img/youtube.png"></a></div>						<img src="/cms/images/byulogofooter.png" style="width: 300px;" usemap="#BYU">
+			<map name="BYU">
+				<area shape="rect" coords="0,0,105,45" href="http://www.byu.edu" />
+				<area shape="rect" coords="105,0,300,45" href="https://caedm.et.byu.edu" />
+				<area shape="rect" coords="0,45,300,100" href="http://www.et.byu.edu" />
+
+				</map>
+		<br />	
+			<div style="margin-top: 7.5px"><div><span style="color: rgb(128, 128, 128); line-height: 1.2em;"><a href="http://www.et.byu.edu/college-directory/CAEDM">Staff</a></span><span style="font-size:11px;">
+			<span style="color: rgb(128, 128, 128); line-height: 1.2em;"><a href="http://caedm.et.byu.edu/wiki/index.php5?title=Contact_Us">Contact Us</a></span></div></div>
+
+</p></div></div></div></div>
+
+							      		</div>
+									   
+
+
+
+</div><!-- #wrapper .hfeed -->
+<script type="text/javascript">
+jQuery(window).load(function() {
+  jQuery.getJSON(wgScriptPath + '/api.php?action=query&format=json&list=recentchanges&rctype=new&rclimit=5&rcnamespace=0', function(data) {
+  	var container = jQuery('#newestPages');
+  	container.empty();
+
+  	var results = data['query']['recentchanges'];
+  	var resultlen = results.length;
+  	for (i = 0; i < resultlen; i++) {
+  		var result = results[i];
+  		var timestamp = result['timestamp'];
+  		var title = result["title"];
+  		var encodedTitle = encodeURI(title);
+  		var year = timestamp.substring(2,4);
+  		var month = timestamp.substring(5,7);
+  		var day = timestamp.substring(8,10);
+		var path = wgArticlePath.replace('\$1', encodedTitle);
+
+  		var formatdate = month + "." + day + "." + year;
+  		//alert(result['title']);
+  		container.append('<li>' + formatdate + ' - <a href="' + wgServer + path + '">' + title + '</a></li>');
+  	}
+  });
+});
+</script>
+</script>
+
+<script type='text/javascript' src='/wiki/skins/byuskin/template/js/script.js?303'></script>
+</body>
+</html>
+		

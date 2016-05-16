@@ -1,0 +1,643 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" class="no-js">
+
+
+<head profile="http://gmpg.org/xfn/11">
+	<title>J Drive &#8211; CAEDM Help Pages</title>
+	<meta property="og:title" value="J Drive">
+	<meta property="og:site_name" content="CAEDM Help Pages"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:description" content="Each CAEDM account and  group has a separate network filespace to save files and access them later. Every J Drive user and group space is  backed up nightly and is  limited in size."/>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+	
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="CAEDM Help Pages" />
+	<link rel="copyright" href="/wiki/index.php/Copyright_Notice" />
+	<link rel="alternate" type="application/atom+xml" title="CAEDM Help Pages Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+
+	<!-- Insert plugin stylesheets here -->
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/slider.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/calendar.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/news.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/socialmedia.css" />
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+	<script>!window.jQuery && document.write(unescape('%3Cscript src="byuskin/template/js/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+
+
+	<script src="/wiki/skins/byuskin/template/js/libs/modernizr-2.0-basic.min.js"></script>
+
+	<!-- Insert plugin stylesheets here -->
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/byuskin/template/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/shared.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonPrint.css" media="print" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonContent.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonElements.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/resources/jquery/jquery.makeCollapsible.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/byuskin/template/css/style.css" />
+
+	<script type="text/javascript">
+// <![CDATA[
+		var erdt = {
+			More: '<span></span> Keep Reading',
+			Less: '<span></span> Put Away',
+			Info: '&#x2193; Further Information',
+			MenuShow: '<span></span> Show Menu',
+			MenuHide: '<span></span> Hide Menu',
+			DisableKeepReading: false,
+			DisableHide: true
+		};
+		(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)
+// ]]>
+	</script>
+	<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"J_Drive","wgTitle":"J Drive","wgCurRevisionId":6656,"wgArticleId":39,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Services"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"J_Drive","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0,100,101,200,201,300]});
+}</script>	<script type="text/javascript" src="/wiki/skins/common/wikibits.js?303"><!-- wikibits js --></script>
+   </head>
+<body class="single single-post">
+
+<header id="main-header">
+		<div id="header-top" class="wrapper">
+			<div id="logo">
+								<a href="http://www.byu.edu/" class="byu"><img src="/cms/images/byulogo.png" style="width: 305px; padding-bottom: 2px;" alt="BYU Logo" usemap="#byulogo" /></a>
+				<map name="byulogo">
+					<area shape="rect" coords="0,0,115,45" href="http://www.byu.edu" />
+                                        <area shape="rect" coords="115,0,305,45" href="https://caedm.et.byu.edu" />
+                                        <area shape="rect" coords="0,45,305,180" href="http://www.et.byu.edu" />
+
+					  </map>
+							</div>
+			<div id="search-container">
+								<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Special:UserLogin&returnto=Ira+A.+Fulton+College+of+Engineering+and+Technology&dest=00" class="button">CAEDM Login</a>
+				
+								<!-- ENTER YOUR SEARCH URL under action -->
+
+
+				<form action="/wiki/index.php5/Special:Search" id="searchform">
+					<input type="text" name="search" id="search" placeholder="Search CAEDM"                         			value=""
+                        			 />
+					<input type="image" src="/wiki/skins/byuskin/template/img/search-button.png" alt="Search" id="search-button" value="Search"/>
+				</form>
+
+
+			</div>
+			<nav id="secondary-nav" class="no-js">
+			<ul>
+			<li class="nochild"><a href="https://my.byu.edu">MyBYU</a></li>
+			<li class="nochild"><a href="https://learningsuite.byu.edu">Learning Suite</a></li>
+			<li class="nochild"><a href="http://caedm.et.byu.edu/wiki/index.php5?title=Contact_Us">Contact Us</a></li>
+			</ul>
+			</div>
+			</nav>
+
+			</div>
+
+
+
+
+
+		<nav id="primary-nav" class="no-js">
+			<ul>
+				
+				<li><a href="">Accounts</a>
+					<div class="mega">
+						<ul class="links">
+
+													<li id="menu-item-n-Create-New-Account" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/accountadder">Create New Account</a>
+																						</li>
+													<li id="menu-item-n-Renew-My-Account" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/changepassform.php?dest=1">Renew My Account</a>
+																						</li>
+													<li id="menu-item-n-Change-My-Password" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/changepassform.php?dest=1">Change My Password</a>
+																						</li>
+													<li id="menu-item-n-Forgot-My-Password" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/accountadder/forgotten_password_form.php?dest=3">Forgot My Password</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Webmail-Login" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://webmail.et.byu.edu">CAEDM Webmail Login</a>
+																						</li>
+													<li id="menu-item-n-Email-.26-Database-Settings" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/cam_main.php?dest=4">Email &amp; Database Settings</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Eligibility" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account#Eligibility_for_an_Account">Eligibility</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Account" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account">CAEDM Account</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Policy" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Policy">CAEDM Policy</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account"><img src="/wiki/images/4/4b/Student_backpack.jpg" width="320" height="228"></a>
+							<p>CAEDM may be new to you, but there are many ways that you can learn how to maximize your experience with CAEDM.</p>
+						</div>
+
+					</div>
+				</li>
+				<li><a href="">Remote Computing</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-Citrix-Login" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://citrix.et.byu.edu">Citrix Login</a>
+																						</li>
+													<li id="menu-item-n-Extended-Use-RGS" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/user-xrgs.php?dest=17">Extended Use RGS</a>
+																						</li>
+													<li id="menu-item-n-Download-RGS" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">Download RGS</a>
+																						</li>
+													<li id="menu-item-n-App-Servers-Legacy-Page" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Application_servers_legacy_page">App Servers Legacy Page</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%;margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Remote-Computing-Overview" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Remote_Computing">Remote Computing Overview</a>
+																						</li>
+													<li id="menu-item-n-Store-files-on-J-Drive" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=J_Drive">Store files on J Drive</a>
+																						</li>
+													<li id="menu-item-n-Access-Software-Through-RGS" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=RGS">Access Software Through RGS</a>
+																						</li>
+													<li id="menu-item-n-Access-Software-Through-Citrix" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Citrix">Access Software Through Citrix</a>
+																						</li>
+													<li id="menu-item-n-Off-Campus-Access-via-VPN" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=VPN">Off-Campus Access via VPN</a>
+																						</li>
+													<li id="menu-item-n-Transfer-Files-With-SCP" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=SCP">Transfer Files With SCP</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=Remote_Computing"><img src="/wiki/images/4/4c/Devices.jpg" width="320" height="228"></a>
+							<p>CAEDM offers a wide variety of resources that can all be used no matter where you happen to be.  From home, work, and even from your phone, your CAEDM needs can be fulfilled.</p>
+						</div>
+
+					</div>
+				</li>
+				<li> <a href="">Files</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-My-Disk-Use" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/quota.php?dest=5">My Disk Use</a>
+																						</li>
+													<li id="menu-item-n-Restore-My-Files" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/tsm/showfiles.php?dest=6">Restore My Files</a>
+																						</li>
+													<li id="menu-item-n-My-Temporary-FTP" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/ftpuser.php?dest=7">My Temporary FTP</a>
+																						</li>
+						
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-J-Drive-Help" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=J_Drive">J Drive Help</a>
+																						</li>
+													<li id="menu-item-n-Personal-Web-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Web_Space">Personal Web Space</a>
+																						</li>
+													<li id="menu-item-n-Transfer-Files-with-SCP" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=SCP">Transfer Files with SCP</a>
+																						</li>
+													<li id="menu-item-n-MySQL-Database" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=MySQL_Database">MySQL Database</a>
+																						</li>
+													<li id="menu-item-n-Scratch-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Scratch_Space">Scratch Space</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=J_Drive"><img src="/wiki/images/Accessing_files.png" width="320" height="228"></a>
+                                                       <p>CAEDM provides file access anywhere on campus, and from home.</p>
+                                                </div>
+					</div>
+				</li>
+				<li> <a href="">Printing</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-Release-Print-Job" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/print.php?dest=8">Release Print Job</a>
+																						</li>
+													<li id="menu-item-n-Check-Print-Balance" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/print.php?dest=8">Check Print Balance</a>
+																						</li>
+													<li id="menu-item-n-Download-Print-Driver" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">Download Print Driver</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-CAEDM-Print-Driver" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_print_driver">CAEDM Print Driver</a>
+																						</li>
+													<li id="menu-item-n-Printing-in-CAEDM" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Printing">Printing in CAEDM</a>
+																						</li>
+													<li id="menu-item-n-Poster-Printing" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Plotting">Poster Printing</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=Printing"><img src="/wiki/images/c/c2/Printer_menu.jpg"></a>
+							<p>CAEDM allows you to print from the labs, but also from an individual computer.</p>
+						</div>
+					</div>
+				</li>
+				<li> <a href="">Labs and Software</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-My-Door-Code" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/doorcode.php?dest=9">My Door Code</a>
+																						</li>
+													<li id="menu-item-n-Free-Microsoft-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://msdnaa.et.byu.edu">Free Microsoft Downloads</a>
+																						</li>
+													<li id="menu-item-n-Free-VMWare-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://vmware.et.byu.edu">Free VMWare Downloads</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">CAEDM Downloads</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Lab-Resources" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Labs">Lab Resources</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Lab-Policy" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM Policy">CAEDM Lab Policy</a>
+																						</li>
+													<li id="menu-item-n-Software-Download-Help" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Free_Software">Software Download Help</a>
+																						</li>
+													<li id="menu-item-n-Department-Computer-Labs" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Department_labs">Department Computer Labs</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Labs"><img src="/wiki/images/b/b6/Lab_and_software_menu.jpg"></a>
+                                                       <p>CAEDM has 3 labs full of computers, but most resources may be accessed remotely.</p>
+                                                </div>
+					</div>
+				</li>
+				<li> <a href="">Groups</a>
+					<div class="mega">
+						<ul class="links">
+
+													<li id="menu-item-n-Manage-My-Groups" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/groups.php?dest=10">Manage My Groups</a>
+																						</li>
+													<li id="menu-item-n-Create-a-Group" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/addgroup.php?dest=12">Create a Group</a>
+																						</li>
+													<li id="menu-item-n-Email-List-Manager" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/listmanager.php?dest=11">Email List Manager</a>
+																						</li>
+												</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-CAEDM-Groups" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups">CAEDM Groups</a>
+																						</li>
+													<li id="menu-item-n-Group-File-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Filespace">Group File Space</a>
+																						</li>
+													<li id="menu-item-n-Group-Web-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedmv.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Web_Space">Group Web Space</a>
+																						</li>
+													<li id="menu-item-n-Group-Printing" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Printing">Group Printing</a>
+																						</li>
+													<li id="menu-item-n-All-Group-Collaboration-Resources" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Group_Collaboration_Resources">All Group Collaboration Resources</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Email-Lists" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5/CAEDM_Mailing_Lists">CAEDM Email Lists</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups"><img src="/wiki/images/9/93/Groups_menu.jpg" height="228" width="320"></a>
+						     <p>CAEDM provides many group collaboration resources.</p>
+						 </div>
+					</div>
+				</li>
+                        
+                         </ul>
+
+
+                      
+                      			</ul>
+		</nav>
+	</header>
+
+	<div id="content" class="wrapper">
+
+<!--    <div id="wrapper" class="hfeed">      -->
+
+
+
+
+		<div id="container">
+			<div id="content-container" class="post type-post hentry category-submissions">
+								<h1 class="entry-title">J Drive</h1>
+								<div class="entry-content">
+
+				<!-- INSERT WIKI STUFF HERE -->
+
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php5/File:Caliper.jpg" class="image"><img alt="" src="/wiki/images/thumb/7/78/Caliper.jpg/300px-Caliper.jpg" width="300" height="200" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:Caliper.jpg" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>The J Drive is the perfect place to store all of your engineering files.  Your files are available from virtually anywhere and are backed up every night.  Files can be conveniently shared with others using <a href="/wiki/index.php5/CAEDM_groups" title="CAEDM groups">groups</a>.</div></div></div>
+<p>Each <a href="/wiki/index.php5/CAEDM_account" title="CAEDM account">CAEDM account</a> and <a href="/wiki/index.php5/CAEDM_groups" title="CAEDM groups"> group</a> has a separate network filespace to save files and access them later. Every J Drive user and group space is <a href="/wiki/index.php5/WebRestore" title="WebRestore"> backed up nightly</a> and is <a href="/wiki/index.php5/J_Drive#Quota" title="J Drive"> limited in size</a>. 
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#User_Filespace"><span class="tocnumber">1</span> <span class="toctext">User Filespace</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#www_Directory"><span class="tocnumber">1.1</span> <span class="toctext">www Directory</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Groups_Folder"><span class="tocnumber">2</span> <span class="toctext">Groups Folder</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Quota"><span class="tocnumber">3</span> <span class="toctext">Quota</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Managing_Quotas"><span class="tocnumber">3.1</span> <span class="toctext">Managing Quotas</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Quota_Extensions"><span class="tocnumber">3.2</span> <span class="toctext">Quota Extensions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#User_Quota_Extensions_.28preferred_method.29"><span class="tocnumber">3.2.1</span> <span class="toctext">User Quota Extensions (preferred method)</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Group_Quota_Extensions_.28preferred_method.29"><span class="tocnumber">3.2.2</span> <span class="toctext">Group Quota Extensions (preferred method)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Class_Quota_Extensions"><span class="tocnumber">3.3</span> <span class="toctext">Class Quota Extensions</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Going_Over_Quota"><span class="tocnumber">3.4</span> <span class="toctext">Going Over Quota</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Accessing_the_J_Drive_from_On_Campus"><span class="tocnumber">4</span> <span class="toctext">Accessing the J Drive from On Campus</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Windows_Machines"><span class="tocnumber">4.1</span> <span class="toctext">Windows Machines</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Macintosh_Machines"><span class="tocnumber">4.2</span> <span class="toctext">Macintosh Machines</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Linux_Machines"><span class="tocnumber">4.3</span> <span class="toctext">Linux Machines</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Accessing_the_J_Drive_from_Off_Campus"><span class="tocnumber">5</span> <span class="toctext">Accessing the J Drive from Off Campus</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Windows_Machines_2"><span class="tocnumber">5.1</span> <span class="toctext">Windows Machines</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Macintosh_Machines_2"><span class="tocnumber">5.2</span> <span class="toctext">Macintosh Machines</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Linux_Machines_2"><span class="tocnumber">5.3</span> <span class="toctext">Linux Machines</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Backups"><span class="tocnumber">6</span> <span class="toctext">Backups</span></a></li>
+</ul>
+</td></tr></table>
+<h3> <span class="mw-headline" id="User_Filespace">User Filespace</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php5/File:J-Drive.png" class="image"><img alt="" src="/wiki/images/thumb/e/e1/J-Drive.png/300px-J-Drive.png" width="300" height="234" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:J-Drive.png" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>A typical J Drive file structure, including personal files, a www folder, and a groups folder</div></div></div>
+<p>User filespace is personal filespace on the J Drive. No other user will be able to access files saved to a personal filespace, or J Drive.  All CAEDM users have a generous amount of disk space on the J Drive, limited by a personal <a href="/wiki/index.php5/J_Drive#Quota" title="J Drive">quota</a>.  A group filespace will appear as a folder on a personal filespace, but it is a separate entity, with an independent quota.  
+</p><p>Besides the normal storage directories (Pictures, Videos, Documents), there are a couple of special directories in a J:Drive filespace. The 'groups' and 'www' directory both have a special function. 
+</p>
+<h4> <span class="mw-headline" id="www_Directory">www Directory</span></h4>
+<p>The 'www' directory is the root directory of a personal <a href="/wiki/index.php5/Web_Space" title="Web Space">webspace</a>. It is empty by default, but if there is a file called 'index.html', it can be viewed from a browser at the URL '<a rel="nofollow" class="external free" href="http://www.et.byu.edu/~username'">http://www.et.byu.edu/~username'</a>. Do <b>not</b> delete the www folder.
+</p>
+<h3> <span class="mw-headline" id="Groups_Folder">Groups Folder</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/index.php5/File:GroupsFolder.png" class="image"><img alt="" src="/wiki/images/thumb/0/07/GroupsFolder.png/300px-GroupsFolder.png" width="300" height="234" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:GroupsFolder.png" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>A typical groups folder, including two groups a user is a member of.</div></div></div>
+<p>The groups folder on the J Drive contains links to <a href="/wiki/index.php5/CAEDM_groups#Group_Filespace" title="CAEDM groups">group filespaces</a> that a user is a <a href="/wiki/index.php5/CAEDM_groups#Group_Users" title="CAEDM groups">member</a> of.  Anyone with a <a href="/wiki/index.php5/CAEDM_account" title="CAEDM account">CAEDM account</a> can <a href="/wiki/index.php5/CAEDM_groups#Creating.2C_Deleting.2C_and_Modifying_Groups" title="CAEDM groups">create a group</a>,which by default has a group filespace.  Users should not place files or folders directly in the groups folder, but in the groups themselves as seen in the example below. Do <b>not</b> delete the 'groups' directory.
+</p>
+<h3> <span class="mw-headline" id="Quota">Quota</span></h3>
+<p>Every user has a J Drive with an individual quota, or limit to the filespace they can use.  Every group also has its own quota, separate from any other group or user quota.  Files in the <a href="/wiki/index.php5/CAEDM_groups#Scratch_Space" title="CAEDM groups">scratch space</a> (files in the 'scratch' directory) do not count against any quota.  
+</p>
+<h4> <span class="mw-headline" id="Managing_Quotas">Managing Quotas</span></h4>
+<p>J Drive usage and disk quota limits for users and groups can be viewed from the  "<a rel="nofollow" class="external text" href="https://caedm.et.byu.edu/cms/quota.php">My Disk Use</a>" option of the "Files" menu on the CAEDM website.
+</p><p>There is a quota management tool included on all CAEDM lab Windows machines for the management and visualization of your filespace. It is especially helpful identifying large files that may have caused a user or group to be over quota.  In the Start menu, it is called "Check J Drive Usage". Note:  Since it is a Windows program, it sometimes cannot find hidden Linux files that start with a period, such as .cache or .settings.
+</p>
+<h4> <span class="mw-headline" id="Quota_Extensions">Quota Extensions</span></h4>
+<p>Quota Extensions will only be given to users and <a href="/wiki/index.php5/CAEDM_groups" title="CAEDM groups">groups</a> after all reasonable efforts have been made to conform to the quotas. Extension requests must be signed by a sponsoring faculty and the reasons why you can not comply with the default quota must be given.
+</p>
+<h5> <span class="mw-headline" id="User_Quota_Extensions_.28preferred_method.29">User Quota Extensions (preferred method)</span></h5>
+<ol><li>Login to the <a rel="nofollow" class="external text" href="https://caedm.et.byu.edu">CAEDM Website</a>
+</li><li>Under the Files menu, click "My Disk Use"
+</li><li>Click the "Quota Extension Form" at the bottom of the "Disk Use" page
+</li><li>Print the form and fill out the remaining information
+</li><li>Take the completed form to Daniel Fussell in CB 306
+</li></ol>
+<h5> <span class="mw-headline" id="Group_Quota_Extensions_.28preferred_method.29">Group Quota Extensions (preferred method)</span></h5>
+<ol><li>The group owner must login to the <a rel="nofollow" class="external text" href="https://caedm.et.byu.edu">CAEDM Website</a>
+</li><li>Under the Groups menu, click "Manage My Groups"
+</li><li>Click the "More Space" link next to the appropriate group
+</li><li>Print the form and fill out the remaining information
+</li><li>Take the completed form to Daniel Fussell in CB306
+</li></ol>
+<p><br />
+[<a rel="nofollow" class="external text" href="http://remote.et.byu.edu/quota_exemption.pdf">Blank forms to fill out by hand may be downloaded here</a>].
+</p>
+<h4> <span class="mw-headline" id="Class_Quota_Extensions">Class Quota Extensions</span></h4>
+<p>Some classes require a large amount of additional diskspace to complete assignments.  A professor may request additional quota to be automatically allocated for all students in their sections, while enrolled in their course.  After a user drops or completes the course, the additional quota will be removed.  It is the users' responsibility to remove the additional files to get back within their "normal" quota when no longer associated with the course. Faculty needing to create a class quota extension for their students must <a href="/wiki/index.php5/Contact_Us" title="Contact Us">contact CAEDM directly</a>.
+</p>
+<h4> <span class="mw-headline" id="Going_Over_Quota">Going Over Quota</span></h4>
+<p>It is <b>very important</b> to note that the J:Drive will allow you to go over your quota for a short amount of time. This precaution is in place exclusively for the benefit of students dealing with massive files. Sometimes saving a multi-gigabyte file will take you over quota. If this happens, don't panic, but DO take the following action:
+</p>
+<ul><li>Check your quota from the <a rel="nofollow" class="external text" href="https://caedm.et.byu.edu/cms-new/quota.php">My Disk Use</a> webpage on the CAEDM website (this is good practice regardless).
+</li><li>If you are over quota, eliminate files or move them to a flash drive, CD-ROM, or scratch space until you are under quota.
+</li></ul>
+<p>If you do not follow the steps above to get under quota within a reasonable time frame, you will be unable to write to your personal J Drive or group that is over quota. When your J Drive or group is full, and cannot be written to, a number of bad things will happen. Users affected will not be able to log into linux at all, and windows applications will react unpredictably and strangely. If a user or group stays over quota for an extended amount of time, administrative action may be taken.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/index.php5/The_CAEDM_J:Drive_Video" title="The CAEDM J:Drive Video"><img alt="" src="/wiki/images/thumb/8/82/CAEDM_wYours.png/180px-CAEDM_wYours.png" width="180" height="135" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:CAEDM_wYours.png" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Video: The CAEDM J:Drive</div></div></div>
+<h2> <span class="mw-headline" id="Accessing_the_J_Drive_from_On_Campus">Accessing the J Drive from On Campus</span></h2>
+<p>The J Drive is available by default from:
+</p>
+<ul><li>All three <a href="/wiki/index.php5/CAEDM_Labs" title="CAEDM Labs"> CAEDM labs</a>
+</li><li>Most <a href="/wiki/index.php5/Department_labs" title="Department labs">department labs</a> that are part of the Ira A. Fulton College of Engineering and Technology
+</li><li><a href="/wiki/index.php5/RGS" title="RGS"> RGS Blade workstations</a> run using the CAEDM HP/SAM client from both on- and off-campus locations
+</li><li><a href="/wiki/index.php5/Citrix" title="Citrix"> Citrix applications</a>
+</li></ul>
+<h3> <span class="mw-headline" id="Windows_Machines">Windows Machines</span></h3>
+<p>Many BYU campus computers will be able to 'map' your J:Drive as a network drive. There is no software to install, or wizard to run.  This capability is built into Windows.  By mapping your J:Drive, your computer will treat and see your CAEDM J:Drive as it would any of its other local disk drives such as it's C:Drive or a USB thumbdrive. To map your J Drive, follow these instructions:
+</p><p><b>My Computer Method</b>
+</p>
+<ul><li>Right click "My Computer" and select "Map Network Drive...".
+</li><li>Select j: as the drive in the "Drive" box.
+</li><li>Type in the "Folder" box \\fs-caedm.et.byu.edu\<i>YOURCAEDMUSERNAME</i>
+</li><li>Select "Connect using a different user name".
+</li><li>Enter  "CAEDM_AD\" and then your CAEDM user name and password. For example: "CAEDM_AD\engineer1" (without the quotes)
+</li><li>Click "OK" and then "Finished".
+</li></ul>
+<p><b>Command Prompt Method</b>
+</p>
+<ul><li>Use the 'net use' command with server 'fs-caedm.et.byu.edu'.
+</li></ul>
+<p><br />
+<i>To unmap the J Drive, do the following:</i>
+</p>
+<ul><li>Right click "My Computer".
+</li><li>Select "Disconnect Network Drive...".
+</li><li>Select from the list of network drives "J:".
+</li><li>Click "OK".
+</li></ul>
+<p><br />
+If you are using a laptop computer, keep in mind that <a href="/wiki/index.php5/Network_access#BYU_Guest_Wireless" title="Network access">BYU Guest wireless</a> and other on-campus networks may not currently support mapping your J Drive. The easiest thing to do is connect <a href="/wiki/index.php5/Network_access#On-campus_wired_connections_within_the_college" title="Network access">physically by ethernet</a> to BYU's network or to <a href="/wiki/index.php5/Network_access#BYU_Secure_Wireless" title="Network access">BYU Secure wireless</a> if you wish to map your J Drive to your computer.
+</p>
+<h3> <span class="mw-headline" id="Macintosh_Machines">Macintosh Machines</span></h3>
+<p>You can also access your J Drive from a Mac OS X machine on campus by mapping a Samba drive:
+</p>
+<ul><li>Select the Finder
+</li><li>From the top menu, select go &gt; connect to server. 
+</li><li>In the window type the following: cifs://fs-caedm.et.byu.edu/<i>YOURCAEDMUSERNAME</i>
+</li><li>Click 'Connect'
+</li><li>A screen will pop up prompting you for your username and password. Enter the info you'd use to log into a CAEDM lab computer.
+</li></ul>
+<ul><li>Done! You can access your J Drive files straight from your Mac's finder.
+</li></ul>
+<h3> <span class="mw-headline" id="Linux_Machines">Linux Machines</span></h3>
+<p>You can use <a href="/wiki/index.php5/SCP" title="SCP">SCP</a> with the server 'scp.et.byu.edu', or you can map the drive with SAMBA to fs-caedm.et.byu.edu.
+</p>
+<ul><li> Install the dolphin filebrowser "sudo apt-get install dolphin"
+</li><li> In the filepath bar at the top type "smb://&lt;username&gt;@fs-caedm.et.byu.edu/homes/"
+</li></ul>
+<p><br />
+</p>
+<h2> <span class="mw-headline" id="Accessing_the_J_Drive_from_Off_Campus">Accessing the J Drive from Off Campus</span></h2>
+<h3> <span class="mw-headline" id="Windows_Machines_2">Windows Machines</span></h3>
+<p>There are a few ways to access your J Drive files from off-campus:
+</p><p><b>SCP or SFTP</b>: These are two protocols for transferring or copying files from one computer to another. There are client applications such as Filezilla or WinSCP that allow you to work on your files in place or drag-and-drop from one computer to another. To use either one of these or one of the many other programs available, you may need to download and install them first.
+</p><p>For whichever program or application you choose to use:
+</p>
+<pre>Hostname: scp.et.byu.edu
+Port: 22
+User: your CAEDM username
+Password: your CAEDM password
+</pre>
+<p>Connecting to your J Drive using WinSCP (NOTE: If you have FileZilla or another FTP client, these same settings will apply.):
+</p>
+<ul><li>Go to the <a rel="nofollow" class="external text" href="http://winscp.net/eng/download.php">WinSCP website</a> and download the free client.
+<ul><li>To install the software, download the "Installation Package."
+</li><li>To use the client on a computer without permission to install software, download the "Standalone Application."
+</li></ul>
+</li><li>Start WinSCP. Enter the following information in the corresponding fields:
+</li></ul>
+<pre>Hostname: scp.et.byu.edu
+User name: &lt;Your CAEDM User Name&gt;
+Password: &lt;Your CAEDM Password&gt;
+</pre>
+<ul><li>Click 'login'. (NOTE: You will recieve a message about trusting the server. Click 'yes' (if you trust us).)
+</li><li>WinSCP will then show a window with two sides: the left is your home computer, and the right shows files on your J Drive. You can drag files between your computer and your J Drive.
+</li></ul>
+<p>IMPORTANT NOTE: This method will probably not work from public hotspots like libraries or coffee shops, as the required port (22) is usually blocked.
+</p><p>Other methods for accessing the J Drive from a Windows computer:
+</p>
+<ul><li><b>CAEDM VPN</b>: Set up  and establish a connection to the <a href="/wiki/index.php5/VPN" title="VPN">VPN</a>, then <a href="/wiki/index.php5/J_Drive#Accessing_the_J_Drive_from_On_Campus" title="J Drive">map the J Drive</a> as if on campus.
+</li></ul>
+<ul><li><b>Off-campus <a href="/wiki/index.php5/RGS" title="RGS">RGS</a> workstations</b>: Your J:Drive is mapped to them automatically.
+</li></ul>
+<ul><li><b><a href="/wiki/index.php5/Citrix" title="Citrix">Citrix</a> applications</b>: These have access to your J:Drive. You can save files to and open files from your J:Drive using these applications.
+</li></ul>
+<ul><li><b>Email them to yourself</b>: This works too. But keep in mind that some email providers may have caps on the size of the mail that can be sent and some files are too large to be sent.
+</li></ul>
+<h3> <span class="mw-headline" id="Macintosh_Machines_2">Macintosh Machines</span></h3>
+<p>To access your J:Drive files from off campus on Mac OS X, do the following:
+</p>
+<ul><li>Set up the <a href="/wiki/index.php5/VPN" title="VPN">VPN</a>.
+</li><li>Select the Finder
+</li><li>From the top menu, select go &gt; connect to server. 
+</li><li>In the window type the following: cifs://fs-caedm.et.byu.edu/&lt;YOURCAEDMUSERNAME&gt; 
+</li><li>Click 'Connect'
+</li><li>A screen will pop up prompting you for your username and password. Enter the info you'd use to log into a CAEDM lab computer.
+</li><li>Done! You can access your J Drive files straight from your Mac's finder.
+</li></ul>
+<h3> <span class="mw-headline" id="Linux_Machines_2">Linux Machines</span></h3>
+<p>You can use <a href="/wiki/index.php5/SCP" title="SCP">SCP</a> with the sever 'scp.et.byu.edu' or establish a <a href="/wiki/index.php5/VPN" title="VPN">VPN</a> connection, and map a drive using SAMBA.
+</p><p>NOTE: Keep in mind that depending on your operating system, some of the above methods may require different efforts or may not be supported entirely
+</p>
+<h2> <span class="mw-headline" id="Backups">Backups</span></h2>
+<p>All user data not stored in the 'scratch' directory is backed up nightly. To restore lost data from the tape backup, use the CAEDM <a href="/wiki/index.php5/WebRestore" title="WebRestore">WebRestore</a> tool accessible from the "<a rel="nofollow" class="external text" href="https://caedm.et.byu.edu/cms-new/tsm/showfiles.php">Restore My Files</a>" option in the "Files" menu of the CAEDM website.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 75/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key mediawiki:pcache:idhash:39-0!*!0!!en!2!* and timestamp 20160512180756 -->
+</div><div class="printfooter">
+Retrieved from "<a href="https://caedm.et.byu.edu/wiki/index.php5?title=J_Drive&amp;oldid=6656">https://caedm.et.byu.edu/wiki/index.php5?title=J_Drive&amp;oldid=6656</a>"</div>
+
+
+
+
+			</div>
+	</div><!-- #container -->
+
+ 	</div>     
+
+</div>
+
+
+<div id="footer-bottom">
+	
+		<div class="wrapper">
+					  <div class="region region-footer-bottom">
+					      <div id="block-block-1" class="block block-block first last odd">
+					      <div class="content">
+
+
+			<p class="rtecenter">
+						<div class="rtecenter" style="float: right; margin-right: -37px"><a align=right href="http://www.youtube.com/byucaedm"><img src="/wiki/skins/byuskin/template/img/youtube.png"></a></div>						<img src="/cms/images/byulogofooter.png" style="width: 300px;" usemap="#BYU">
+			<map name="BYU">
+				<area shape="rect" coords="0,0,105,45" href="http://www.byu.edu" />
+				<area shape="rect" coords="105,0,300,45" href="https://caedm.et.byu.edu" />
+				<area shape="rect" coords="0,45,300,100" href="http://www.et.byu.edu" />
+
+				</map>
+		<br />	
+			<div style="margin-top: 7.5px"><div><span style="color: rgb(128, 128, 128); line-height: 1.2em;"><a href="http://www.et.byu.edu/college-directory/CAEDM">Staff</a></span><span style="font-size:11px;">
+			<span style="color: rgb(128, 128, 128); line-height: 1.2em;"><a href="http://caedm.et.byu.edu/wiki/index.php5?title=Contact_Us">Contact Us</a></span></div></div>
+
+</p></div></div></div></div>
+
+							      		</div>
+									   
+
+
+
+</div><!-- #wrapper .hfeed -->
+<script type="text/javascript">
+jQuery(window).load(function() {
+  jQuery.getJSON(wgScriptPath + '/api.php?action=query&format=json&list=recentchanges&rctype=new&rclimit=5&rcnamespace=0', function(data) {
+  	var container = jQuery('#newestPages');
+  	container.empty();
+
+  	var results = data['query']['recentchanges'];
+  	var resultlen = results.length;
+  	for (i = 0; i < resultlen; i++) {
+  		var result = results[i];
+  		var timestamp = result['timestamp'];
+  		var title = result["title"];
+  		var encodedTitle = encodeURI(title);
+  		var year = timestamp.substring(2,4);
+  		var month = timestamp.substring(5,7);
+  		var day = timestamp.substring(8,10);
+		var path = wgArticlePath.replace('\$1', encodedTitle);
+
+  		var formatdate = month + "." + day + "." + year;
+  		//alert(result['title']);
+  		container.append('<li>' + formatdate + ' - <a href="' + wgServer + path + '">' + title + '</a></li>');
+  	}
+  });
+});
+</script>
+</script>
+
+<script type='text/javascript' src='/wiki/skins/byuskin/template/js/script.js?303'></script>
+</body>
+</html>
+		

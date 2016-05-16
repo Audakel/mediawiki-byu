@@ -1,0 +1,528 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" class="no-js">
+
+
+<head profile="http://gmpg.org/xfn/11">
+	<title>VPN &#8211; CAEDM Help Pages</title>
+	<meta property="og:title" value="VPN">
+	<meta property="og:site_name" content="CAEDM Help Pages"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:description" content="When you connect to the VPN (Virtual Private Network), your computer establishes an encrypted link to CAEDM and becomes part of the BYU campus network. You are able to access network resources as if your computer was plugged-in to the university network."/>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+	
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="CAEDM Help Pages" />
+	<link rel="copyright" href="/wiki/index.php/Copyright_Notice" />
+	<link rel="alternate" type="application/atom+xml" title="CAEDM Help Pages Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+
+	<!-- Insert plugin stylesheets here -->
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/slider.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/calendar.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/news.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/socialmedia.css" />
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+	<script>!window.jQuery && document.write(unescape('%3Cscript src="byuskin/template/js/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+
+
+	<script src="/wiki/skins/byuskin/template/js/libs/modernizr-2.0-basic.min.js"></script>
+
+	<!-- Insert plugin stylesheets here -->
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/byuskin/template/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/shared.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonPrint.css" media="print" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonContent.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonElements.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/resources/jquery/jquery.makeCollapsible.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/byuskin/template/css/style.css" />
+
+	<script type="text/javascript">
+// <![CDATA[
+		var erdt = {
+			More: '<span></span> Keep Reading',
+			Less: '<span></span> Put Away',
+			Info: '&#x2193; Further Information',
+			MenuShow: '<span></span> Show Menu',
+			MenuHide: '<span></span> Hide Menu',
+			DisableKeepReading: false,
+			DisableHide: true
+		};
+		(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)
+// ]]>
+	</script>
+	<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"VPN","wgTitle":"VPN","wgCurRevisionId":6234,"wgArticleId":909,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Services"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"VPN","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0,100,101,200,201,300]});
+}</script>	<script type="text/javascript" src="/wiki/skins/common/wikibits.js?303"><!-- wikibits js --></script>
+   </head>
+<body class="single single-post">
+
+<header id="main-header">
+		<div id="header-top" class="wrapper">
+			<div id="logo">
+								<a href="http://www.byu.edu/" class="byu"><img src="/cms/images/byulogo.png" style="width: 305px; padding-bottom: 2px;" alt="BYU Logo" usemap="#byulogo" /></a>
+				<map name="byulogo">
+					<area shape="rect" coords="0,0,115,45" href="http://www.byu.edu" />
+                                        <area shape="rect" coords="115,0,305,45" href="https://caedm.et.byu.edu" />
+                                        <area shape="rect" coords="0,45,305,180" href="http://www.et.byu.edu" />
+
+					  </map>
+							</div>
+			<div id="search-container">
+								<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Special:UserLogin&returnto=Ira+A.+Fulton+College+of+Engineering+and+Technology&dest=00" class="button">CAEDM Login</a>
+				
+								<!-- ENTER YOUR SEARCH URL under action -->
+
+
+				<form action="/wiki/index.php5/Special:Search" id="searchform">
+					<input type="text" name="search" id="search" placeholder="Search CAEDM"                         			value=""
+                        			 />
+					<input type="image" src="/wiki/skins/byuskin/template/img/search-button.png" alt="Search" id="search-button" value="Search"/>
+				</form>
+
+
+			</div>
+			<nav id="secondary-nav" class="no-js">
+			<ul>
+			<li class="nochild"><a href="https://my.byu.edu">MyBYU</a></li>
+			<li class="nochild"><a href="https://learningsuite.byu.edu">Learning Suite</a></li>
+			<li class="nochild"><a href="http://caedm.et.byu.edu/wiki/index.php5?title=Contact_Us">Contact Us</a></li>
+			</ul>
+			</div>
+			</nav>
+
+			</div>
+
+
+
+
+
+		<nav id="primary-nav" class="no-js">
+			<ul>
+				
+				<li><a href="">Accounts</a>
+					<div class="mega">
+						<ul class="links">
+
+													<li id="menu-item-n-Create-New-Account" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/accountadder">Create New Account</a>
+																						</li>
+													<li id="menu-item-n-Renew-My-Account" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/changepassform.php?dest=1">Renew My Account</a>
+																						</li>
+													<li id="menu-item-n-Change-My-Password" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/changepassform.php?dest=1">Change My Password</a>
+																						</li>
+													<li id="menu-item-n-Forgot-My-Password" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/accountadder/forgotten_password_form.php?dest=3">Forgot My Password</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Webmail-Login" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://webmail.et.byu.edu">CAEDM Webmail Login</a>
+																						</li>
+													<li id="menu-item-n-Email-.26-Database-Settings" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/cam_main.php?dest=4">Email &amp; Database Settings</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Eligibility" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account#Eligibility_for_an_Account">Eligibility</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Account" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account">CAEDM Account</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Policy" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Policy">CAEDM Policy</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account"><img src="/wiki/images/4/4b/Student_backpack.jpg" width="320" height="228"></a>
+							<p>CAEDM may be new to you, but there are many ways that you can learn how to maximize your experience with CAEDM.</p>
+						</div>
+
+					</div>
+				</li>
+				<li><a href="">Remote Computing</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-Citrix-Login" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://citrix.et.byu.edu">Citrix Login</a>
+																						</li>
+													<li id="menu-item-n-Extended-Use-RGS" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/user-xrgs.php?dest=17">Extended Use RGS</a>
+																						</li>
+													<li id="menu-item-n-Download-RGS" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">Download RGS</a>
+																						</li>
+													<li id="menu-item-n-App-Servers-Legacy-Page" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Application_servers_legacy_page">App Servers Legacy Page</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%;margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Remote-Computing-Overview" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Remote_Computing">Remote Computing Overview</a>
+																						</li>
+													<li id="menu-item-n-Store-files-on-J-Drive" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=J_Drive">Store files on J Drive</a>
+																						</li>
+													<li id="menu-item-n-Access-Software-Through-RGS" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=RGS">Access Software Through RGS</a>
+																						</li>
+													<li id="menu-item-n-Access-Software-Through-Citrix" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Citrix">Access Software Through Citrix</a>
+																						</li>
+													<li id="menu-item-n-Off-Campus-Access-via-VPN" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=VPN">Off-Campus Access via VPN</a>
+																						</li>
+													<li id="menu-item-n-Transfer-Files-With-SCP" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=SCP">Transfer Files With SCP</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=Remote_Computing"><img src="/wiki/images/4/4c/Devices.jpg" width="320" height="228"></a>
+							<p>CAEDM offers a wide variety of resources that can all be used no matter where you happen to be.  From home, work, and even from your phone, your CAEDM needs can be fulfilled.</p>
+						</div>
+
+					</div>
+				</li>
+				<li> <a href="">Files</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-My-Disk-Use" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/quota.php?dest=5">My Disk Use</a>
+																						</li>
+													<li id="menu-item-n-Restore-My-Files" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/tsm/showfiles.php?dest=6">Restore My Files</a>
+																						</li>
+													<li id="menu-item-n-My-Temporary-FTP" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/ftpuser.php?dest=7">My Temporary FTP</a>
+																						</li>
+						
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-J-Drive-Help" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=J_Drive">J Drive Help</a>
+																						</li>
+													<li id="menu-item-n-Personal-Web-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Web_Space">Personal Web Space</a>
+																						</li>
+													<li id="menu-item-n-Transfer-Files-with-SCP" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=SCP">Transfer Files with SCP</a>
+																						</li>
+													<li id="menu-item-n-MySQL-Database" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=MySQL_Database">MySQL Database</a>
+																						</li>
+													<li id="menu-item-n-Scratch-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Scratch_Space">Scratch Space</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=J_Drive"><img src="/wiki/images/Accessing_files.png" width="320" height="228"></a>
+                                                       <p>CAEDM provides file access anywhere on campus, and from home.</p>
+                                                </div>
+					</div>
+				</li>
+				<li> <a href="">Printing</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-Release-Print-Job" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/print.php?dest=8">Release Print Job</a>
+																						</li>
+													<li id="menu-item-n-Check-Print-Balance" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/print.php?dest=8">Check Print Balance</a>
+																						</li>
+													<li id="menu-item-n-Download-Print-Driver" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">Download Print Driver</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-CAEDM-Print-Driver" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_print_driver">CAEDM Print Driver</a>
+																						</li>
+													<li id="menu-item-n-Printing-in-CAEDM" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Printing">Printing in CAEDM</a>
+																						</li>
+													<li id="menu-item-n-Poster-Printing" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Plotting">Poster Printing</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=Printing"><img src="/wiki/images/c/c2/Printer_menu.jpg"></a>
+							<p>CAEDM allows you to print from the labs, but also from an individual computer.</p>
+						</div>
+					</div>
+				</li>
+				<li> <a href="">Labs and Software</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-My-Door-Code" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/doorcode.php?dest=9">My Door Code</a>
+																						</li>
+													<li id="menu-item-n-Free-Microsoft-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://msdnaa.et.byu.edu">Free Microsoft Downloads</a>
+																						</li>
+													<li id="menu-item-n-Free-VMWare-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://vmware.et.byu.edu">Free VMWare Downloads</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">CAEDM Downloads</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Lab-Resources" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Labs">Lab Resources</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Lab-Policy" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM Policy">CAEDM Lab Policy</a>
+																						</li>
+													<li id="menu-item-n-Software-Download-Help" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Free_Software">Software Download Help</a>
+																						</li>
+													<li id="menu-item-n-Department-Computer-Labs" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Department_labs">Department Computer Labs</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Labs"><img src="/wiki/images/b/b6/Lab_and_software_menu.jpg"></a>
+                                                       <p>CAEDM has 3 labs full of computers, but most resources may be accessed remotely.</p>
+                                                </div>
+					</div>
+				</li>
+				<li> <a href="">Groups</a>
+					<div class="mega">
+						<ul class="links">
+
+													<li id="menu-item-n-Manage-My-Groups" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/groups.php?dest=10">Manage My Groups</a>
+																						</li>
+													<li id="menu-item-n-Create-a-Group" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/addgroup.php?dest=12">Create a Group</a>
+																						</li>
+													<li id="menu-item-n-Email-List-Manager" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/listmanager.php?dest=11">Email List Manager</a>
+																						</li>
+												</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-CAEDM-Groups" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups">CAEDM Groups</a>
+																						</li>
+													<li id="menu-item-n-Group-File-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Filespace">Group File Space</a>
+																						</li>
+													<li id="menu-item-n-Group-Web-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedmv.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Web_Space">Group Web Space</a>
+																						</li>
+													<li id="menu-item-n-Group-Printing" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Printing">Group Printing</a>
+																						</li>
+													<li id="menu-item-n-All-Group-Collaboration-Resources" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Group_Collaboration_Resources">All Group Collaboration Resources</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Email-Lists" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5/CAEDM_Mailing_Lists">CAEDM Email Lists</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups"><img src="/wiki/images/9/93/Groups_menu.jpg" height="228" width="320"></a>
+						     <p>CAEDM provides many group collaboration resources.</p>
+						 </div>
+					</div>
+				</li>
+                        
+                         </ul>
+
+
+                      
+                      			</ul>
+		</nav>
+	</header>
+
+	<div id="content" class="wrapper">
+
+<!--    <div id="wrapper" class="hfeed">      -->
+
+
+
+
+		<div id="container">
+			<div id="content-container" class="post type-post hentry category-submissions">
+								<h1 class="entry-title">VPN</h1>
+								<div class="entry-content">
+
+				<!-- INSERT WIKI STUFF HERE -->
+
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>When you connect to the VPN (Virtual Private Network), your computer establishes an encrypted link to CAEDM and becomes part of the BYU campus network. You are able to access network resources as if your computer was plugged-in to the university network.
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Quick_Installation_Facts_.28for_the_impatient.29"><span class="tocnumber">1</span> <span class="toctext">Quick Installation Facts (for the impatient)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#IKEv2_VPN_Connections"><span class="tocnumber">1.1</span> <span class="toctext">IKEv2 VPN Connections</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#SSL_VPN_Connections"><span class="tocnumber">1.2</span> <span class="toctext">SSL VPN Connections</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Clientless_SSL_VPN_Connections"><span class="tocnumber">1.3</span> <span class="toctext">Clientless SSL VPN Connections</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#When_to_use_the_VPN"><span class="tocnumber">2</span> <span class="toctext">When to use the VPN</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#VPN_Connection_Options"><span class="tocnumber">3</span> <span class="toctext">VPN Connection Options</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Setup_and_Connection_Instructions"><span class="tocnumber">4</span> <span class="toctext">Setup and Connection Instructions</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Troubleshooting"><span class="tocnumber">5</span> <span class="toctext">Troubleshooting</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Quick_Installation_Facts_.28for_the_impatient.29">Quick Installation Facts (for the impatient)</span></h2>
+<h3> <span class="mw-headline" id="IKEv2_VPN_Connections">IKEv2 VPN Connections</span></h3>
+<pre>Servername: vpn.et.byu.edu
+Protocol: IKEv2
+Authentication: EAP-MSCHAPv2
+</pre>
+<h3> <span class="mw-headline" id="SSL_VPN_Connections">SSL VPN Connections</span></h3>
+<pre>Download FortiClient after logging into <a rel="nofollow" class="external free" href="https://vpn.et.byu.edu">https://vpn.et.byu.edu</a>, or download from <a rel="nofollow" class="external free" href="http://www.forticlient.com">http://www.forticlient.com</a>
+Servername: vpn.et.byu.edu
+Protocol: SSL VPN
+</pre>
+<h3> <span class="mw-headline" id="Clientless_SSL_VPN_Connections">Clientless SSL VPN Connections</span></h3>
+<p>Go to <a rel="nofollow" class="external free" href="https://vpn.et.byu.edu">https://vpn.et.byu.edu</a> using your browser of choice.
+</p>
+<h2> <span class="mw-headline" id="When_to_use_the_VPN">When to use the VPN</span></h2>
+<p>Most CAEDM <a href="/wiki/index.php5/Remote_Computing" title="Remote Computing" class="mw-redirect">remote computing </a> resources can
+be used from off-campus <i>without</i> using the VPN .  
+</p><p>However, there are some resources which, for security or licensing reasons, are only available to
+on-campus machines.  When connected to the VPN, your computer is considered
+part of the on-campus network, thus making these restricted resources
+available to you remotely, and in a secure fashion.  
+</p><p>Examples of such restricted resources you might use remotely include:
+</p>
+<ul style="list-style-type: disc; list-style-image: none;">
+<ul><li>Workstations used by researchers, faculty, and staff
+</li><li>License servers
+</li><li>Free access to the Lee library's subscription services (e.g. Compendex, EBSCO, RefWorks, IEEE Xplore Digital Library, and Proquest Safari Books nline)
+</li><li>Content-filtered Internet access
+</li><li>Any other campus computer or service protected from the public Internet
+</li></ul>
+</ul>
+<div class="center"><div class="floatnone"><a href="/wiki/index.php5/File:Internet.png" class="image" title="Services available via VPN connection."><img alt="Services available via VPN connection." src="/wiki/images/a/ad/Internet.png" width="734" height="425" class="thumbborder" /></a></div></div>
+<p>As seen in the table above, the VPN will allow off-campus connections to use your <a href="/wiki/index.php5/J_Drive" title="J Drive">J Drive</a>, or to print from off-campus to a CAEDM lab printer.  It can also be used with publicly available services, such as <a href="/wiki/index.php5/RGS" title="RGS">RGS</a>, <a href="/wiki/index.php5/Citrix" title="Citrix">Citrix</a>, or <a href="/wiki/index.php5/SSH" title="SSH">SSH</a>, though these services are already encrypted, so the VPN connection is not necessary.  Note that while the VPN will give you wider access to services while on BYU-Guest, it will not remove the bandwidth limitations of BYU-Guest.  If you want faster access, use BYU-Secure instead.
+</p>
+<h2> <span class="mw-headline" id="VPN_Connection_Options">VPN Connection Options</span></h2>
+<p>There are three ways of connecting to the college VPN, listed in order of general preference:
+</p>
+<ol><li>IKEv2 (Internet Key Exchange version 2)
+</li><li>SSL VPN (Secure Sockets Layer Virtual Private Network)
+</li><li>Clientless SSL VPN
+</li></ol>
+<p>Each has its own strengths, which are described below.
+</p>
+<dl><dt>IKEv2 (Internet Key Exchange version 2)
+</dt><dd>IKEv2 is the preferred VPN connection as it is the simplest to use on most operating systems.  IKEv2 support is included in Windows 7 or higher, and is available by plug-in or client download for Linux, Android, iOS, and Mac OS X.  Unfortunately, Mac OS X also requires a workaround each time you connect and disconnect with the VPN.  IKEv2 may have problems connecting in large, crowded conferences centers due to heavy traffic congestion.  In such situations the SSL VPN has better success connecting.
+</dd></dl>
+<dl><dt>SSL VPN
+</dt><dd>SSL VPN may be needed if the Internet Provider you are using doesn't allow IKEv2 VPN connections, or if you are in a heavily crowded conference room.  The SSL VPN client is available as a download for Windows, Mac OS X, iOS, and Android.
+</dd></dl>
+<dl><dt>Clientless SSL VPN
+</dt><dd>The Clientless SSL VPN is best when you can't install or configure the software needed for the IKEv2 or SSL VPN options (e.g. you are using an older version of Mac OS X, or someone else's computer).  It requires only a web browser for services like SMB/CIFS (the J: drive) and content-filtered web browsing.  A Flash or Java plug-in may be required for other services like SSH.  The browser-based experience is not as seamless as the full SSL VPN client, but it can still be useful in a pinch.
+</dd></dl>
+<h2> <span class="mw-headline" id="Setup_and_Connection_Instructions">Setup and Connection Instructions</span></h2>
+<p><a href="/wiki/index.php5/VPN_Instructions_for_Windows_7" title="VPN Instructions for Windows 7">VPN Instructions for Windows 7</a>
+</p><p><a href="/wiki/index.php5/VPN_Instructions_for_Windows_8" title="VPN Instructions for Windows 8">VPN Instructions for Windows 8</a> (and Windows 10)
+</p><p><a href="/wiki/index.php5/VPN_Instructions_for_Mac_OS_X" title="VPN Instructions for Mac OS X">VPN Instructions for Mac OS X</a>
+</p><p><a href="/wiki/index.php5/VPN_Instructions_for_iOS_9" title="VPN Instructions for iOS 9">VPN Instructions for iOS 9</a>
+</p><p><a href="/wiki/index.php5/VPN_Instructions_for_Android" title="VPN Instructions for Android">VPN Instructions for Android</a>
+</p><p><a href="/wiki/index.php5/VPN_Instructions_for_Linux" title="VPN Instructions for Linux">VPN Instructions for Linux</a>
+</p>
+<h2> <span class="mw-headline" id="Troubleshooting">Troubleshooting</span></h2>
+<ul><li>If you are going to be using programs installed on your local computer that require a license server, make sure that you include the et.byu.edu extension.
+<ul><li>For example, if Wizbang 2000 requires a license server to run, normally that license server would be set to something like "1234@licserv".  When using the VPN, it needs to be "1234@licserv.et.byu.edu".  This will route the license request through VPN, and will then be able to find the license server. You can add the et.byu.edu and it will work just fine on campus as well, in addition to off-campus locations.
+</li></ul>
+</li></ul>
+<ul><li>Do not use split tunnelling.
+</li></ul>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 32/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key mediawiki:pcache:idhash:909-0!*!0!!en!2!* and timestamp 20160512204927 -->
+</div><div class="printfooter">
+Retrieved from "<a href="https://caedm.et.byu.edu/wiki/index.php5?title=VPN&amp;oldid=6234">https://caedm.et.byu.edu/wiki/index.php5?title=VPN&amp;oldid=6234</a>"</div>
+
+
+
+
+			</div>
+	</div><!-- #container -->
+
+ 	</div>     
+
+</div>
+
+
+<div id="footer-bottom">
+	
+		<div class="wrapper">
+					  <div class="region region-footer-bottom">
+					      <div id="block-block-1" class="block block-block first last odd">
+					      <div class="content">
+
+
+			<p class="rtecenter">
+						<div class="rtecenter" style="float: right; margin-right: -37px"><a align=right href="http://www.youtube.com/byucaedm"><img src="/wiki/skins/byuskin/template/img/youtube.png"></a></div>						<img src="/cms/images/byulogofooter.png" style="width: 300px;" usemap="#BYU">
+			<map name="BYU">
+				<area shape="rect" coords="0,0,105,45" href="http://www.byu.edu" />
+				<area shape="rect" coords="105,0,300,45" href="https://caedm.et.byu.edu" />
+				<area shape="rect" coords="0,45,300,100" href="http://www.et.byu.edu" />
+
+				</map>
+		<br />	
+			<div style="margin-top: 7.5px"><div><span style="color: rgb(128, 128, 128); line-height: 1.2em;"><a href="http://www.et.byu.edu/college-directory/CAEDM">Staff</a></span><span style="font-size:11px;">
+			<span style="color: rgb(128, 128, 128); line-height: 1.2em;"><a href="http://caedm.et.byu.edu/wiki/index.php5?title=Contact_Us">Contact Us</a></span></div></div>
+
+</p></div></div></div></div>
+
+							      		</div>
+									   
+
+
+
+</div><!-- #wrapper .hfeed -->
+<script type="text/javascript">
+jQuery(window).load(function() {
+  jQuery.getJSON(wgScriptPath + '/api.php?action=query&format=json&list=recentchanges&rctype=new&rclimit=5&rcnamespace=0', function(data) {
+  	var container = jQuery('#newestPages');
+  	container.empty();
+
+  	var results = data['query']['recentchanges'];
+  	var resultlen = results.length;
+  	for (i = 0; i < resultlen; i++) {
+  		var result = results[i];
+  		var timestamp = result['timestamp'];
+  		var title = result["title"];
+  		var encodedTitle = encodeURI(title);
+  		var year = timestamp.substring(2,4);
+  		var month = timestamp.substring(5,7);
+  		var day = timestamp.substring(8,10);
+		var path = wgArticlePath.replace('\$1', encodedTitle);
+
+  		var formatdate = month + "." + day + "." + year;
+  		//alert(result['title']);
+  		container.append('<li>' + formatdate + ' - <a href="' + wgServer + path + '">' + title + '</a></li>');
+  	}
+  });
+});
+</script>
+</script>
+
+<script type='text/javascript' src='/wiki/skins/byuskin/template/js/script.js?303'></script>
+</body>
+</html>
+		

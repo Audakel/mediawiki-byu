@@ -1,0 +1,554 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" class="no-js">
+
+
+<head profile="http://gmpg.org/xfn/11">
+	<title>CAEDM account &#8211; CAEDM Help Pages</title>
+	<meta property="og:title" value="CAEDM account">
+	<meta property="og:site_name" content="CAEDM Help Pages"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:description" content="A CAEDM account provides many of the computing resources needed to complete classwork, research and employment in the Ira A. Fulton College of Engineering and Technology.  If eligible for an account, a patron has access to the  CAEDM labs,  remote computing, webspace,  filespace, and any of the other computing  services provided by the college.  A  CAEDM username and  password may also be used to access department resources specific to a major or a particular research group.  Users must agree to the CAEDM policy before using any resources."/>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+	
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="CAEDM Help Pages" />
+	<link rel="copyright" href="/wiki/index.php/Copyright_Notice" />
+	<link rel="alternate" type="application/atom+xml" title="CAEDM Help Pages Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+
+	<!-- Insert plugin stylesheets here -->
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/slider.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/calendar.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/news.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/socialmedia.css" />
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+	<script>!window.jQuery && document.write(unescape('%3Cscript src="byuskin/template/js/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+
+
+	<script src="/wiki/skins/byuskin/template/js/libs/modernizr-2.0-basic.min.js"></script>
+
+	<!-- Insert plugin stylesheets here -->
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/byuskin/template/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/shared.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonPrint.css" media="print" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonContent.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonElements.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/resources/jquery/jquery.makeCollapsible.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/byuskin/template/css/style.css" />
+
+	<script type="text/javascript">
+// <![CDATA[
+		var erdt = {
+			More: '<span></span> Keep Reading',
+			Less: '<span></span> Put Away',
+			Info: '&#x2193; Further Information',
+			MenuShow: '<span></span> Show Menu',
+			MenuHide: '<span></span> Hide Menu',
+			DisableKeepReading: false,
+			DisableHide: true
+		};
+		(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)
+// ]]>
+	</script>
+	<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"CAEDM_account","wgTitle":"CAEDM account","wgCurRevisionId":5022,"wgArticleId":16,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Services"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"CAEDM_account","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0,100,101,200,201,300]});
+}</script>	<script type="text/javascript" src="/wiki/skins/common/wikibits.js?303"><!-- wikibits js --></script>
+   </head>
+<body class="single single-post">
+
+<header id="main-header">
+		<div id="header-top" class="wrapper">
+			<div id="logo">
+								<a href="http://www.byu.edu/" class="byu"><img src="/cms/images/byulogo.png" style="width: 305px; padding-bottom: 2px;" alt="BYU Logo" usemap="#byulogo" /></a>
+				<map name="byulogo">
+					<area shape="rect" coords="0,0,115,45" href="http://www.byu.edu" />
+                                        <area shape="rect" coords="115,0,305,45" href="https://caedm.et.byu.edu" />
+                                        <area shape="rect" coords="0,45,305,180" href="http://www.et.byu.edu" />
+
+					  </map>
+							</div>
+			<div id="search-container">
+								<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Special:UserLogin&returnto=Ira+A.+Fulton+College+of+Engineering+and+Technology&dest=00" class="button">CAEDM Login</a>
+				
+								<!-- ENTER YOUR SEARCH URL under action -->
+
+
+				<form action="/wiki/index.php5/Special:Search" id="searchform">
+					<input type="text" name="search" id="search" placeholder="Search CAEDM"                         			value=""
+                        			 />
+					<input type="image" src="/wiki/skins/byuskin/template/img/search-button.png" alt="Search" id="search-button" value="Search"/>
+				</form>
+
+
+			</div>
+			<nav id="secondary-nav" class="no-js">
+			<ul>
+			<li class="nochild"><a href="https://my.byu.edu">MyBYU</a></li>
+			<li class="nochild"><a href="https://learningsuite.byu.edu">Learning Suite</a></li>
+			<li class="nochild"><a href="http://caedm.et.byu.edu/wiki/index.php5?title=Contact_Us">Contact Us</a></li>
+			</ul>
+			</div>
+			</nav>
+
+			</div>
+
+
+
+
+
+		<nav id="primary-nav" class="no-js">
+			<ul>
+				
+				<li><a href="">Accounts</a>
+					<div class="mega">
+						<ul class="links">
+
+													<li id="menu-item-n-Create-New-Account" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/accountadder">Create New Account</a>
+																						</li>
+													<li id="menu-item-n-Renew-My-Account" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/changepassform.php?dest=1">Renew My Account</a>
+																						</li>
+													<li id="menu-item-n-Change-My-Password" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/changepassform.php?dest=1">Change My Password</a>
+																						</li>
+													<li id="menu-item-n-Forgot-My-Password" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/accountadder/forgotten_password_form.php?dest=3">Forgot My Password</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Webmail-Login" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://webmail.et.byu.edu">CAEDM Webmail Login</a>
+																						</li>
+													<li id="menu-item-n-Email-.26-Database-Settings" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/cam_main.php?dest=4">Email &amp; Database Settings</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Eligibility" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account#Eligibility_for_an_Account">Eligibility</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Account" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account">CAEDM Account</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Policy" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Policy">CAEDM Policy</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account"><img src="/wiki/images/4/4b/Student_backpack.jpg" width="320" height="228"></a>
+							<p>CAEDM may be new to you, but there are many ways that you can learn how to maximize your experience with CAEDM.</p>
+						</div>
+
+					</div>
+				</li>
+				<li><a href="">Remote Computing</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-Citrix-Login" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://citrix.et.byu.edu">Citrix Login</a>
+																						</li>
+													<li id="menu-item-n-Extended-Use-RGS" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/user-xrgs.php?dest=17">Extended Use RGS</a>
+																						</li>
+													<li id="menu-item-n-Download-RGS" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">Download RGS</a>
+																						</li>
+													<li id="menu-item-n-App-Servers-Legacy-Page" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Application_servers_legacy_page">App Servers Legacy Page</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%;margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Remote-Computing-Overview" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Remote_Computing">Remote Computing Overview</a>
+																						</li>
+													<li id="menu-item-n-Store-files-on-J-Drive" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=J_Drive">Store files on J Drive</a>
+																						</li>
+													<li id="menu-item-n-Access-Software-Through-RGS" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=RGS">Access Software Through RGS</a>
+																						</li>
+													<li id="menu-item-n-Access-Software-Through-Citrix" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Citrix">Access Software Through Citrix</a>
+																						</li>
+													<li id="menu-item-n-Off-Campus-Access-via-VPN" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=VPN">Off-Campus Access via VPN</a>
+																						</li>
+													<li id="menu-item-n-Transfer-Files-With-SCP" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=SCP">Transfer Files With SCP</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=Remote_Computing"><img src="/wiki/images/4/4c/Devices.jpg" width="320" height="228"></a>
+							<p>CAEDM offers a wide variety of resources that can all be used no matter where you happen to be.  From home, work, and even from your phone, your CAEDM needs can be fulfilled.</p>
+						</div>
+
+					</div>
+				</li>
+				<li> <a href="">Files</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-My-Disk-Use" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/quota.php?dest=5">My Disk Use</a>
+																						</li>
+													<li id="menu-item-n-Restore-My-Files" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/tsm/showfiles.php?dest=6">Restore My Files</a>
+																						</li>
+													<li id="menu-item-n-My-Temporary-FTP" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/ftpuser.php?dest=7">My Temporary FTP</a>
+																						</li>
+						
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-J-Drive-Help" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=J_Drive">J Drive Help</a>
+																						</li>
+													<li id="menu-item-n-Personal-Web-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Web_Space">Personal Web Space</a>
+																						</li>
+													<li id="menu-item-n-Transfer-Files-with-SCP" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=SCP">Transfer Files with SCP</a>
+																						</li>
+													<li id="menu-item-n-MySQL-Database" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=MySQL_Database">MySQL Database</a>
+																						</li>
+													<li id="menu-item-n-Scratch-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Scratch_Space">Scratch Space</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=J_Drive"><img src="/wiki/images/Accessing_files.png" width="320" height="228"></a>
+                                                       <p>CAEDM provides file access anywhere on campus, and from home.</p>
+                                                </div>
+					</div>
+				</li>
+				<li> <a href="">Printing</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-Release-Print-Job" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/print.php?dest=8">Release Print Job</a>
+																						</li>
+													<li id="menu-item-n-Check-Print-Balance" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/print.php?dest=8">Check Print Balance</a>
+																						</li>
+													<li id="menu-item-n-Download-Print-Driver" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">Download Print Driver</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-CAEDM-Print-Driver" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_print_driver">CAEDM Print Driver</a>
+																						</li>
+													<li id="menu-item-n-Printing-in-CAEDM" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Printing">Printing in CAEDM</a>
+																						</li>
+													<li id="menu-item-n-Poster-Printing" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Plotting">Poster Printing</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=Printing"><img src="/wiki/images/c/c2/Printer_menu.jpg"></a>
+							<p>CAEDM allows you to print from the labs, but also from an individual computer.</p>
+						</div>
+					</div>
+				</li>
+				<li> <a href="">Labs and Software</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-My-Door-Code" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/doorcode.php?dest=9">My Door Code</a>
+																						</li>
+													<li id="menu-item-n-Free-Microsoft-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://msdnaa.et.byu.edu">Free Microsoft Downloads</a>
+																						</li>
+													<li id="menu-item-n-Free-VMWare-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://vmware.et.byu.edu">Free VMWare Downloads</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">CAEDM Downloads</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Lab-Resources" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Labs">Lab Resources</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Lab-Policy" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM Policy">CAEDM Lab Policy</a>
+																						</li>
+													<li id="menu-item-n-Software-Download-Help" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Free_Software">Software Download Help</a>
+																						</li>
+													<li id="menu-item-n-Department-Computer-Labs" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Department_labs">Department Computer Labs</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Labs"><img src="/wiki/images/b/b6/Lab_and_software_menu.jpg"></a>
+                                                       <p>CAEDM has 3 labs full of computers, but most resources may be accessed remotely.</p>
+                                                </div>
+					</div>
+				</li>
+				<li> <a href="">Groups</a>
+					<div class="mega">
+						<ul class="links">
+
+													<li id="menu-item-n-Manage-My-Groups" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/groups.php?dest=10">Manage My Groups</a>
+																						</li>
+													<li id="menu-item-n-Create-a-Group" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/addgroup.php?dest=12">Create a Group</a>
+																						</li>
+													<li id="menu-item-n-Email-List-Manager" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/listmanager.php?dest=11">Email List Manager</a>
+																						</li>
+												</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-CAEDM-Groups" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups">CAEDM Groups</a>
+																						</li>
+													<li id="menu-item-n-Group-File-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Filespace">Group File Space</a>
+																						</li>
+													<li id="menu-item-n-Group-Web-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedmv.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Web_Space">Group Web Space</a>
+																						</li>
+													<li id="menu-item-n-Group-Printing" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Printing">Group Printing</a>
+																						</li>
+													<li id="menu-item-n-All-Group-Collaboration-Resources" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Group_Collaboration_Resources">All Group Collaboration Resources</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Email-Lists" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5/CAEDM_Mailing_Lists">CAEDM Email Lists</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups"><img src="/wiki/images/9/93/Groups_menu.jpg" height="228" width="320"></a>
+						     <p>CAEDM provides many group collaboration resources.</p>
+						 </div>
+					</div>
+				</li>
+                        
+                         </ul>
+
+
+                      
+                      			</ul>
+		</nav>
+	</header>
+
+	<div id="content" class="wrapper">
+
+<!--    <div id="wrapper" class="hfeed">      -->
+
+
+
+
+		<div id="container">
+			<div id="content-container" class="post type-post hentry category-submissions">
+								<h1 class="entry-title">CAEDM account</h1>
+								<div class="entry-content">
+
+				<!-- INSERT WIKI STUFF HERE -->
+
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/index.php5/File:Account_puzzle.jpg" class="image"><img alt="" src="/wiki/images/thumb/1/1c/Account_puzzle.jpg/250px-Account_puzzle.jpg" width="250" height="229" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:Account_puzzle.jpg" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>A CAEDM account may be created at the <a rel="nofollow" class="external text" href="https://ssl.et.byu.edu/cms/accountadder">account adder website</a>.</div></div></div>
+<p>A CAEDM account provides many of the computing resources needed to complete classwork, research and employment in the <a rel="nofollow" class="external text" href="http://www.et.byu.edu">Ira A. Fulton College of Engineering and Technology</a>.  If eligible for an account, a patron has access to the <a href="/wiki/index.php5/CAEDM_Labs" title="CAEDM Labs"> CAEDM labs</a>, <a href="/wiki/index.php5/Remote_Computing" title="Remote Computing" class="mw-redirect"> remote computing</a>, <a href="/wiki/index.php5/Web_Space" title="Web Space">webspace</a>, <a href="/wiki/index.php5/J_Drive" title="J Drive"> filespace</a>, and any of the other computing <a href="/wiki/index.php5/Category:Services" title="Category:Services"> services</a> provided by the college.  A <a href="/wiki/index.php5/CAEDM_account#CAEDM_Username" title="CAEDM account"> CAEDM username</a> and <a href="/wiki/index.php5/CAEDM_account#CAEDM_Password" title="CAEDM account"> password</a> may also be used to access <a href="/wiki/index.php5/Department_labs" title="Department labs">department resources</a> specific to a major or a particular research group.  Users must agree to the <a href="/wiki/index.php5/CAEDM_Policy" title="CAEDM Policy">CAEDM policy</a> before using any resources.
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Creating_a_CAEDM_Account"><span class="tocnumber">1</span> <span class="toctext">Creating a CAEDM Account</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#CAEDM_Account_Kiosk"><span class="tocnumber">1.1</span> <span class="toctext">CAEDM Account Kiosk</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#CAEDM_Policy"><span class="tocnumber">1.2</span> <span class="toctext">CAEDM Policy</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Eligibility_for_an_Account"><span class="tocnumber">1.3</span> <span class="toctext">Eligibility for an Account</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Troubleshooting_account_creation"><span class="tocnumber">1.4</span> <span class="toctext">Troubleshooting account creation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#CAEDM_credentials"><span class="tocnumber">2</span> <span class="toctext">CAEDM credentials</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#CAEDM_Username"><span class="tocnumber">2.1</span> <span class="toctext">CAEDM Username</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#CAEDM_Password"><span class="tocnumber">2.2</span> <span class="toctext">CAEDM Password</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Changing_a_password"><span class="tocnumber">2.2.1</span> <span class="toctext">Changing a password</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Forgotten_passwords"><span class="tocnumber">2.2.2</span> <span class="toctext">Forgotten passwords</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Delay_in_service_after_password_change"><span class="tocnumber">2.2.3</span> <span class="toctext">Delay in service after password change</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#CAEDM_website"><span class="tocnumber">3</span> <span class="toctext">CAEDM website</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Disabled_Accounts"><span class="tocnumber">4</span> <span class="toctext">Disabled Accounts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Failure_to_annually_renew_an_account."><span class="tocnumber">4.1</span> <span class="toctext">Failure to annually renew an account.</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Violation_of_CAEDM_Policy"><span class="tocnumber">4.2</span> <span class="toctext">Violation of CAEDM Policy</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="Creating_a_CAEDM_Account">Creating a CAEDM Account</span></h2>
+<h3> <span class="mw-headline" id="CAEDM_Account_Kiosk">CAEDM Account Kiosk</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="https://caedm.et.byu.edu/cms/accountadder/">Create a CAEDM account here</a>.
+</li></ul>
+<p>Anyone <a href="/wiki/index.php5/CAEDM_account#Eligibility_for_an_Account" title="CAEDM account">eligible</a> to use computing resources in the Ira A. Fulton College of Engineering and Technology should be able to create a CAEDM account at an Account Kiosk. The Account Kiosk loads a web page that checks to make sure you are eligible for an account, and then creates the rights, filespaces, webspaces and other resources of your account. The Account Kiosk will also share the <a href="/wiki/index.php5/CAEDM_Labs#Door_Code" title="CAEDM Labs"> door code</a> to the <a href="/wiki/index.php5/CAEDM_Labs" title="CAEDM Labs"> labs</a> at the end of the account creation process. It will also remind the new user that it will take 15 minutes for the account creation process to complete.
+</p>
+<ul><li>Dedicated Account Kiosk computers are located in the hall outside of CB 423 and one in CTB 450
+</li><li><a rel="nofollow" class="external text" href="https://caedm.et.byu.edu/cms/accountadder/">The Account Adder webpage</a> is available online
+</li></ul>
+<h3> <span class="mw-headline" id="CAEDM_Policy">CAEDM Policy</span></h3>
+<p>In order to use CAEDM resources, a user must agree to the <a href="/wiki/index.php5/CAEDM_Policy" title="CAEDM Policy">CAEDM Policy</a>.  This is done the first time a user logs into any <a href="/wiki/index.php5/CAEDM_Labs#Thin_Clients" title="CAEDM Labs">CAEDM Windows machine</a> and clicks "I Agree" on the resulting agreement.  Once a user has agreed to the policy on any Windows machine, all <a href="/wiki/index.php5/Category:Services" title="Category:Services">CAEDM resources</a> will be available to that user. Violation of policy may result your <a href="/wiki/index.php5/CAEDM_account#Disabled_Accounts" title="CAEDM account">account being disabled</a>.
+</p>
+<h3> <span class="mw-headline" id="Eligibility_for_an_Account">Eligibility for an Account</span></h3>
+<p>To use the <a href="/wiki/index.php5/CAEDM_Labs" title="CAEDM Labs"> CAEDM labs</a>, you need a CAEDM account. To be eligible for an account, one or more of the following must apply:
+</p>
+<ul><li>You are currently enrolled in engineering classes,
+</li><li>You are a declared engineering major, AND a currently enrolled student
+</li><li>You are employed by the college.
+</li></ul>
+<p>Eligibility for account creation and renewal is automated for students based on current class enrollment and declared major.  This information is updated nightly.  If a student is no longer enrolled in classes, they will be unable to create or renew their account. If account eligibility is based solely on employment in the college, a request for an account must come from a department CSR.  Please <a href="/wiki/index.php5/Department_labs#Department_CSRs" title="Department labs">contact the appropriate department CSR</a> for assistance.
+</p><p>Users must also have an existing BYU NetID account from the Univeristy to create a CAEDM account.
+</p>
+<h3> <span class="mw-headline" id="Troubleshooting_account_creation">Troubleshooting account creation</span></h3>
+<p>If you have tried to create a CAEDM account unsuccessfully, first ensure you meet the <a href="#Eligiblility_for_an_Account"> eligibility requirements</a>.  
+</p><p><b>Issues with eligibility based on enrollment or major</b>
+</p><p>Eligibility databases based on enrollment and major are automatically updated once a day.  If classes or majors are added, eligibility requirements may not be satisfied until the next day.  
+</p><p><b>College and department employees cannot create an anncount</b>
+</p><p>Eligibility based solely on employment, either full or part-time is added manually by CAEDM employees.  If your employee number has not been manually added to our database, you will not be able to add an account.  Please <a href="/wiki/index.php5/Contact_Us" title="Contact Us">contact us</a>.  Please have your full name, employee ID number and BYU NetID ready.
+</p><p><b>BYU NetID Inconsistency</b>
+</p><p>Part of CAEDM account creation requires authenticating to BYU to verify your identity and NetID username. BYU NetID passwords are actually stored on multiple servers, and sometimes they don't agree. If this happens you will be unable to create a CAEDM account.  To fix this, log into myBYU and change your password.  Even if it's the same password, this forces a sync of your password on all of the servers and CAEDM account creation should work.
+</p><p>If you still need help, please <a href="/wiki/index.php5/Contact_Us" title="Contact Us"> contact us</a> for assistance.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/index.php5/File:Pass_key.jpg" class="image"><img alt="" src="/wiki/images/thumb/9/91/Pass_key.jpg/250px-Pass_key.jpg" width="250" height="250" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:Pass_key.jpg" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>CAEDM passwords <a href="/wiki/index.php5/CAEDM_Policy" title="CAEDM Policy">cannot be shared</a> with anyone.  To share files or resources, use <a href="/wiki/index.php5/CAEDM_groups" title="CAEDM groups">CAEDM groups</a>.</div></div></div>
+<h2> <span class="mw-headline" id="CAEDM_credentials">CAEDM credentials</span></h2>
+<p>Your CAEDM username and password, or credentials, will work on all CAEDM Windows and Linux systems.  It will work on <a href="/wiki/index.php5/RGS" title="RGS">RGS</a>, <a href="/wiki/index.php5/Citrix" title="Citrix">Citrix</a>, and all computers in the <a href="/wiki/index.php5/CAEDM_Labs" title="CAEDM Labs"> CAEDM labs</a>.  It may work in <a href="/wiki/index.php5/Department_labs" title="Department labs">department labs</a> in the college, if your department is using CAEDM Active Directory or LDAP for authentication.  Your CAEDM credentials will not work in any labs outside of CAEDM, including the Open Access Labs.
+</p>
+<h3> <span class="mw-headline" id="CAEDM_Username">CAEDM Username</span></h3>
+<p>By default, CAEDM usernames are identical to the university provided BYU NetID.  Some exceptions may occur for accounts that have existed for many years.
+</p>
+<h3> <span class="mw-headline" id="CAEDM_Password">CAEDM Password</span></h3>
+<p>A CAEDM password is unique to your CAEDM account.   It is possible to choose a CAEDM password that is identical to your BYU NetID password, but we do not recommend that practice.  For security reasons, it is recommended to <a href="/wiki/index.php5/Choosing_a_password" title="Choosing a password">choose a strong, separate password</a> for your account.  It is required to change your password once a year.  An annual email notification will be sent with instructions.  If you do not comply, your account will be <a href="/wiki/index.php5/CAEDM_account#Disabled_Accounts" title="CAEDM account">disabled</a>.
+</p>
+<h4> <span class="mw-headline" id="Changing_a_password">Changing a password</span></h4>
+<p>To change a password, use the <a rel="nofollow" class="external text" href="https://caedm.et.byu.edu/cms/changepassform.php">change password webpage </a>
+</p>
+<h4> <span class="mw-headline" id="Forgotten_passwords">Forgotten passwords</span></h4>
+<p>If you have forgotten your password, use the <a rel="nofollow" class="external text" href="https://caedm.et.byu.edu/cms/accountadder/forgotten_password_form.php">"Forgot Password" wizard</a> on the CAEDM website.
+</p><p>To change your password, you must be <a href="/wiki/index.php5/CAEDM_account#Eligibility_for_an_Account" title="CAEDM account">currently eligible for an account</a>.
+</p><p>If the instructions from the link above does not solve the problem, speak to an administrator to have the problem resolved.
+</p>
+<h4> <span class="mw-headline" id="Delay_in_service_after_password_change">Delay in service after password change</span></h4>
+<ul><li>The server may take up to 15 minutes to complete the change. During this time, you may not be able to log in to any of the computers. If you are able log in prematurely, you may experience problems with your <a href="/wiki/index.php5/J_Drive" title="J Drive">J Drive</a>, <a href="/wiki/index.php5/Printing" title="Printing">printing</a>, Firefox, and other applications.
+</li></ul>
+<h2> <span class="mw-headline" id="CAEDM_website">CAEDM website</span></h2>
+<p>Use the CAEDM website to:
+</p>
+<ul><li><a href="/wiki/index.php5/CAEDM_account#Changing_a_password" title="CAEDM account"> Change/Reset your password</a>
+</li><li><a href="/wiki/index.php5/CAEDM_groups#How_to_use_Group_Printing" title="CAEDM groups">Release Group Print jobs</a>
+</li><li><a href="/wiki/index.php5/Printing#CAEDM_Print_Balance" title="Printing"> Check your printing account balance</a>
+</li><li><a href="/wiki/index.php5/WebRestore" title="WebRestore"> Restore deleted files</a>
+</li><li><a href="/wiki/index.php5/Temporary_FTP" title="Temporary FTP"> Setup a temporary FTP site</a>
+</li><li><a href="/wiki/index.php5/J_Drive#Quota" title="J Drive"> Check Quota information</a>
+</li><li><a href="/wiki/index.php5/CAEDM_Labs#Door_Code" title="CAEDM Labs"> Get the lab door code</a>
+</li><li><a href="/wiki/index.php5/CAEDM_Mailing_Lists" title="CAEDM Mailing Lists"> Setup CAEDM mailing lists</a>
+</li><li><a href="/wiki/index.php5/Linux#Linux_account_options" title="Linux"> Set Linux account options</a>
+</li><li><a href="/wiki/index.php5/CAEDM_groups#Creating.2C_Deleting.2C_and_Modifying_Groups" title="CAEDM groups"> Manage CAEDM Groups</a>
+</li></ul>
+<ul><li>All this plus learn more about using all.
+</li></ul>
+<h2> <span class="mw-headline" id="Disabled_Accounts">Disabled Accounts</span></h2>
+<h3> <span class="mw-headline" id="Failure_to_annually_renew_an_account.">Failure to annually renew an account.</span></h3>
+<p>The most common cause for a disabled account is that the account password needs to be changed. ALL users are required to change their password each year. A warning email is sent two weeks prior to disabling the account with renewal instructions.
+</p><p>To re-enable your account, <a rel="nofollow" class="external text" href="https://caedm.et.byu.edu/cms/changepassform.php">change your password</a>
+</p>
+<h3> <span class="mw-headline" id="Violation_of_CAEDM_Policy">Violation of CAEDM Policy</span></h3>
+<p>Accounts may also be disabled for violating <a href="/wiki/index.php5/CAEDM_Policy" title="CAEDM Policy">CAEDM policy</a>.  Any user whose account is disabled for policy violation must personally see an administrator to be reactivated. Duration of de-activations vary with the offense, but start from when the user first comes and talks with an administrator.  If your account has been disabled for a breach in policy, please <a href="/wiki/index.php5/Contact_Us" title="Contact Us"> come see us</a> if you have further questions or concerns.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 59/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key mediawiki:pcache:idhash:16-0!*!0!!en!2!* and timestamp 20160511231522 -->
+</div><div class="printfooter">
+Retrieved from "<a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account&amp;oldid=5022">https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account&amp;oldid=5022</a>"</div>
+
+
+
+
+			</div>
+	</div><!-- #container -->
+
+ 	</div>     
+
+</div>
+
+
+<div id="footer-bottom">
+	
+		<div class="wrapper">
+					  <div class="region region-footer-bottom">
+					      <div id="block-block-1" class="block block-block first last odd">
+					      <div class="content">
+
+
+			<p class="rtecenter">
+						<div class="rtecenter" style="float: right; margin-right: -37px"><a align=right href="http://www.youtube.com/byucaedm"><img src="/wiki/skins/byuskin/template/img/youtube.png"></a></div>						<img src="/cms/images/byulogofooter.png" style="width: 300px;" usemap="#BYU">
+			<map name="BYU">
+				<area shape="rect" coords="0,0,105,45" href="http://www.byu.edu" />
+				<area shape="rect" coords="105,0,300,45" href="https://caedm.et.byu.edu" />
+				<area shape="rect" coords="0,45,300,100" href="http://www.et.byu.edu" />
+
+				</map>
+		<br />	
+			<div style="margin-top: 7.5px"><div><span style="color: rgb(128, 128, 128); line-height: 1.2em;"><a href="http://www.et.byu.edu/college-directory/CAEDM">Staff</a></span><span style="font-size:11px;">
+			<span style="color: rgb(128, 128, 128); line-height: 1.2em;"><a href="http://caedm.et.byu.edu/wiki/index.php5?title=Contact_Us">Contact Us</a></span></div></div>
+
+</p></div></div></div></div>
+
+							      		</div>
+									   
+
+
+
+</div><!-- #wrapper .hfeed -->
+<script type="text/javascript">
+jQuery(window).load(function() {
+  jQuery.getJSON(wgScriptPath + '/api.php?action=query&format=json&list=recentchanges&rctype=new&rclimit=5&rcnamespace=0', function(data) {
+  	var container = jQuery('#newestPages');
+  	container.empty();
+
+  	var results = data['query']['recentchanges'];
+  	var resultlen = results.length;
+  	for (i = 0; i < resultlen; i++) {
+  		var result = results[i];
+  		var timestamp = result['timestamp'];
+  		var title = result["title"];
+  		var encodedTitle = encodeURI(title);
+  		var year = timestamp.substring(2,4);
+  		var month = timestamp.substring(5,7);
+  		var day = timestamp.substring(8,10);
+		var path = wgArticlePath.replace('\$1', encodedTitle);
+
+  		var formatdate = month + "." + day + "." + year;
+  		//alert(result['title']);
+  		container.append('<li>' + formatdate + ' - <a href="' + wgServer + path + '">' + title + '</a></li>');
+  	}
+  });
+});
+</script>
+</script>
+
+<script type='text/javascript' src='/wiki/skins/byuskin/template/js/script.js?303'></script>
+</body>
+</html>
+		

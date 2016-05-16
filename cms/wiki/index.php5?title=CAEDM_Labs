@@ -1,0 +1,584 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" class="no-js">
+
+
+<head profile="http://gmpg.org/xfn/11">
+	<title>CAEDM Labs &#8211; CAEDM Help Pages</title>
+	<meta property="og:title" value="CAEDM Labs">
+	<meta property="og:site_name" content="CAEDM Help Pages"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:description" content="College computing labs are available to anyone with a CAEDM account.  There are three general college CAEDM labs as described here, and many other individual department labs. If this is your first time in the CAEDM labs, it is strongly suggested that you watch the video:"/>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+	
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="CAEDM Help Pages" />
+	<link rel="copyright" href="/wiki/index.php/Copyright_Notice" />
+	<link rel="alternate" type="application/atom+xml" title="CAEDM Help Pages Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />
+
+	<!-- Insert plugin stylesheets here -->
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/slider.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/calendar.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/news.css" />
+	<link rel="stylesheet" href="/wiki/skins/byuskin/template/css/plugins/socialmedia.css" />
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+	<script>!window.jQuery && document.write(unescape('%3Cscript src="byuskin/template/js/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+
+
+	<script src="/wiki/skins/byuskin/template/js/libs/modernizr-2.0-basic.min.js"></script>
+
+	<!-- Insert plugin stylesheets here -->
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/byuskin/template/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/shared.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonPrint.css" media="print" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonContent.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/common/commonElements.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/resources/jquery/jquery.makeCollapsible.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/wiki/skins/byuskin/template/css/style.css" />
+
+	<script type="text/javascript">
+// <![CDATA[
+		var erdt = {
+			More: '<span></span> Keep Reading',
+			Less: '<span></span> Put Away',
+			Info: '&#x2193; Further Information',
+			MenuShow: '<span></span> Show Menu',
+			MenuHide: '<span></span> Hide Menu',
+			DisableKeepReading: false,
+			DisableHide: true
+		};
+		(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)
+// ]]>
+	</script>
+	<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"CAEDM_Labs","wgTitle":"CAEDM Labs","wgCurRevisionId":4170,"wgArticleId":45,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Services"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"CAEDM_Labs","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0,100,101,200,201,300]});
+}</script>	<script type="text/javascript" src="/wiki/skins/common/wikibits.js?303"><!-- wikibits js --></script>
+   </head>
+<body class="single single-post">
+
+<header id="main-header">
+		<div id="header-top" class="wrapper">
+			<div id="logo">
+								<a href="http://www.byu.edu/" class="byu"><img src="/cms/images/byulogo.png" style="width: 305px; padding-bottom: 2px;" alt="BYU Logo" usemap="#byulogo" /></a>
+				<map name="byulogo">
+					<area shape="rect" coords="0,0,115,45" href="http://www.byu.edu" />
+                                        <area shape="rect" coords="115,0,305,45" href="https://caedm.et.byu.edu" />
+                                        <area shape="rect" coords="0,45,305,180" href="http://www.et.byu.edu" />
+
+					  </map>
+							</div>
+			<div id="search-container">
+								<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Special:UserLogin&returnto=Ira+A.+Fulton+College+of+Engineering+and+Technology&dest=00" class="button">CAEDM Login</a>
+				
+								<!-- ENTER YOUR SEARCH URL under action -->
+
+
+				<form action="/wiki/index.php5/Special:Search" id="searchform">
+					<input type="text" name="search" id="search" placeholder="Search CAEDM"                         			value=""
+                        			 />
+					<input type="image" src="/wiki/skins/byuskin/template/img/search-button.png" alt="Search" id="search-button" value="Search"/>
+				</form>
+
+
+			</div>
+			<nav id="secondary-nav" class="no-js">
+			<ul>
+			<li class="nochild"><a href="https://my.byu.edu">MyBYU</a></li>
+			<li class="nochild"><a href="https://learningsuite.byu.edu">Learning Suite</a></li>
+			<li class="nochild"><a href="http://caedm.et.byu.edu/wiki/index.php5?title=Contact_Us">Contact Us</a></li>
+			</ul>
+			</div>
+			</nav>
+
+			</div>
+
+
+
+
+
+		<nav id="primary-nav" class="no-js">
+			<ul>
+				
+				<li><a href="">Accounts</a>
+					<div class="mega">
+						<ul class="links">
+
+													<li id="menu-item-n-Create-New-Account" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/accountadder">Create New Account</a>
+																						</li>
+													<li id="menu-item-n-Renew-My-Account" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/changepassform.php?dest=1">Renew My Account</a>
+																						</li>
+													<li id="menu-item-n-Change-My-Password" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/changepassform.php?dest=1">Change My Password</a>
+																						</li>
+													<li id="menu-item-n-Forgot-My-Password" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/accountadder/forgotten_password_form.php?dest=3">Forgot My Password</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Webmail-Login" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://webmail.et.byu.edu">CAEDM Webmail Login</a>
+																						</li>
+													<li id="menu-item-n-Email-.26-Database-Settings" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/cam_main.php?dest=4">Email &amp; Database Settings</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Eligibility" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account#Eligibility_for_an_Account">Eligibility</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Account" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account">CAEDM Account</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Policy" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Policy">CAEDM Policy</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_account"><img src="/wiki/images/4/4b/Student_backpack.jpg" width="320" height="228"></a>
+							<p>CAEDM may be new to you, but there are many ways that you can learn how to maximize your experience with CAEDM.</p>
+						</div>
+
+					</div>
+				</li>
+				<li><a href="">Remote Computing</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-Citrix-Login" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://citrix.et.byu.edu">Citrix Login</a>
+																						</li>
+													<li id="menu-item-n-Extended-Use-RGS" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/user-xrgs.php?dest=17">Extended Use RGS</a>
+																						</li>
+													<li id="menu-item-n-Download-RGS" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">Download RGS</a>
+																						</li>
+													<li id="menu-item-n-App-Servers-Legacy-Page" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Application_servers_legacy_page">App Servers Legacy Page</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%;margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Remote-Computing-Overview" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Remote_Computing">Remote Computing Overview</a>
+																						</li>
+													<li id="menu-item-n-Store-files-on-J-Drive" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=J_Drive">Store files on J Drive</a>
+																						</li>
+													<li id="menu-item-n-Access-Software-Through-RGS" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=RGS">Access Software Through RGS</a>
+																						</li>
+													<li id="menu-item-n-Access-Software-Through-Citrix" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Citrix">Access Software Through Citrix</a>
+																						</li>
+													<li id="menu-item-n-Off-Campus-Access-via-VPN" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=VPN">Off-Campus Access via VPN</a>
+																						</li>
+													<li id="menu-item-n-Transfer-Files-With-SCP" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=SCP">Transfer Files With SCP</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=Remote_Computing"><img src="/wiki/images/4/4c/Devices.jpg" width="320" height="228"></a>
+							<p>CAEDM offers a wide variety of resources that can all be used no matter where you happen to be.  From home, work, and even from your phone, your CAEDM needs can be fulfilled.</p>
+						</div>
+
+					</div>
+				</li>
+				<li> <a href="">Files</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-My-Disk-Use" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/quota.php?dest=5">My Disk Use</a>
+																						</li>
+													<li id="menu-item-n-Restore-My-Files" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/tsm/showfiles.php?dest=6">Restore My Files</a>
+																						</li>
+													<li id="menu-item-n-My-Temporary-FTP" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/ftpuser.php?dest=7">My Temporary FTP</a>
+																						</li>
+						
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-J-Drive-Help" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=J_Drive">J Drive Help</a>
+																						</li>
+													<li id="menu-item-n-Personal-Web-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Web_Space">Personal Web Space</a>
+																						</li>
+													<li id="menu-item-n-Transfer-Files-with-SCP" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=SCP">Transfer Files with SCP</a>
+																						</li>
+													<li id="menu-item-n-MySQL-Database" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=MySQL_Database">MySQL Database</a>
+																						</li>
+													<li id="menu-item-n-Scratch-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Scratch_Space">Scratch Space</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=J_Drive"><img src="/wiki/images/Accessing_files.png" width="320" height="228"></a>
+                                                       <p>CAEDM provides file access anywhere on campus, and from home.</p>
+                                                </div>
+					</div>
+				</li>
+				<li> <a href="">Printing</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-Release-Print-Job" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/print.php?dest=8">Release Print Job</a>
+																						</li>
+													<li id="menu-item-n-Check-Print-Balance" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/print.php?dest=8">Check Print Balance</a>
+																						</li>
+													<li id="menu-item-n-Download-Print-Driver" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">Download Print Driver</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-CAEDM-Print-Driver" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_print_driver">CAEDM Print Driver</a>
+																						</li>
+													<li id="menu-item-n-Printing-in-CAEDM" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Printing">Printing in CAEDM</a>
+																						</li>
+													<li id="menu-item-n-Poster-Printing" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Plotting">Poster Printing</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=Printing"><img src="/wiki/images/c/c2/Printer_menu.jpg"></a>
+							<p>CAEDM allows you to print from the labs, but also from an individual computer.</p>
+						</div>
+					</div>
+				</li>
+				<li> <a href="">Labs and Software</a>
+					<div class="mega">
+						<ul class="links">
+						
+													<li id="menu-item-n-My-Door-Code" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/doorcode.php?dest=9">My Door Code</a>
+																						</li>
+													<li id="menu-item-n-Free-Microsoft-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://msdnaa.et.byu.edu">Free Microsoft Downloads</a>
+																						</li>
+													<li id="menu-item-n-Free-VMWare-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://vmware.et.byu.edu">Free VMWare Downloads</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Downloads" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5?title=Downloads">CAEDM Downloads</a>
+																						</li>
+												
+						</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-Lab-Resources" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Labs">Lab Resources</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Lab-Policy" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM Policy">CAEDM Lab Policy</a>
+																						</li>
+													<li id="menu-item-n-Software-Download-Help" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Free_Software">Software Download Help</a>
+																						</li>
+													<li id="menu-item-n-Department-Computer-Labs" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Department_labs">Department Computer Labs</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Labs"><img src="/wiki/images/b/b6/Lab_and_software_menu.jpg"></a>
+                                                       <p>CAEDM has 3 labs full of computers, but most resources may be accessed remotely.</p>
+                                                </div>
+					</div>
+				</li>
+				<li> <a href="">Groups</a>
+					<div class="mega">
+						<ul class="links">
+
+													<li id="menu-item-n-Manage-My-Groups" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/groups.php?dest=10">Manage My Groups</a>
+																						</li>
+													<li id="menu-item-n-Create-a-Group" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/addgroup.php?dest=12">Create a Group</a>
+																						</li>
+													<li id="menu-item-n-Email-List-Manager" class="featured menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/cms/listmanager.php?dest=11">Email List Manager</a>
+																						</li>
+												</ul><ul class="links" style="position: absolute; top:180px;">	
+						<li style="font-size:130%; margin-bottom:5px;"><u>Learn More</u></li>
+													<li id="menu-item-n-CAEDM-Groups" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups">CAEDM Groups</a>
+																						</li>
+													<li id="menu-item-n-Group-File-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Filespace">Group File Space</a>
+																						</li>
+													<li id="menu-item-n-Group-Web-Space" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedmv.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Web_Space">Group Web Space</a>
+																						</li>
+													<li id="menu-item-n-Group-Printing" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups#Group_Printing">Group Printing</a>
+																						</li>
+													<li id="menu-item-n-All-Group-Collaboration-Resources" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="http://caedm.et.byu.edu/wiki/index.php5?title=Group_Collaboration_Resources">All Group Collaboration Resources</a>
+																						</li>
+													<li id="menu-item-n-CAEDM-Email-Lists" class="menu-item menu-item-type-post_type menu-item">
+					       	<a href="https://caedm.et.byu.edu/wiki/index.php5/CAEDM_Mailing_Lists">CAEDM Email Lists</a>
+																						</li>
+												</ul>
+						<div class="highlight"><a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_groups"><img src="/wiki/images/9/93/Groups_menu.jpg" height="228" width="320"></a>
+						     <p>CAEDM provides many group collaboration resources.</p>
+						 </div>
+					</div>
+				</li>
+                        
+                         </ul>
+
+
+                      
+                      			</ul>
+		</nav>
+	</header>
+
+	<div id="content" class="wrapper">
+
+<!--    <div id="wrapper" class="hfeed">      -->
+
+
+
+
+		<div id="container">
+			<div id="content-container" class="post type-post hentry category-submissions">
+								<h1 class="entry-title">CAEDM Labs</h1>
+								<div class="entry-content">
+
+				<!-- INSERT WIKI STUFF HERE -->
+
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright"><div class="thumbinner" style="width:322px;"><a href="/wiki/index.php5/An_Introduction_to_CAEDM_Video" title="An Introduction to CAEDM Video"><img alt="" src="/wiki/images/4/4b/Student_backpack.jpg" width="320" height="228" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:Student_backpack.jpg" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Watch the <a href="/wiki/index.php5/An_Introduction_to_CAEDM_Video" title="An Introduction to CAEDM Video">Introduction to CAEDM video</a> to get started.</div></div></div>
+<p>College computing labs are available to anyone with a <a href="/wiki/index.php5/CAEDM_account" title="CAEDM account">CAEDM account</a>.  There are three general college CAEDM labs as described here, and many other individual <a href="/wiki/index.php5/Department_labs" title="Department labs">department labs</a>. If this is your first time in the CAEDM labs, it is strongly suggested that you watch the video:
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Lab_Locations"><span class="tocnumber">1</span> <span class="toctext">Lab Locations</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Lab_Hours"><span class="tocnumber">2</span> <span class="toctext">Lab Hours</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Door_Code"><span class="tocnumber">3</span> <span class="toctext">Door Code</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Unattended_computers"><span class="tocnumber">4</span> <span class="toctext">Unattended computers</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Lost_and_found"><span class="tocnumber">5</span> <span class="toctext">Lost and found</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Resources"><span class="tocnumber">6</span> <span class="toctext">Resources</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Thin_Clients"><span class="tocnumber">6.1</span> <span class="toctext">Thin Clients</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Printing_and_Plotting"><span class="tocnumber">6.2</span> <span class="toctext">Printing and Plotting</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Laptop_Stations"><span class="tocnumber">6.3</span> <span class="toctext">Laptop Stations</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Digital_Sender_and_Scanner"><span class="tocnumber">6.4</span> <span class="toctext">Digital Sender and Scanner</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Special_Media_Stations_With_Scanners"><span class="tocnumber">6.5</span> <span class="toctext">Special Media Stations With Scanners</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Group_Cubicles"><span class="tocnumber">6.6</span> <span class="toctext">Group Cubicles</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Teaching_Assistants"><span class="tocnumber">6.7</span> <span class="toctext">Teaching Assistants</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<h3> <span class="mw-headline" id="Lab_Locations">Lab Locations</span></h3>
+<p>There are three labs run directly by CAEDM, most of which have both Windows and Linux machines. Their locations are:
+</p>
+<ul><li>425 Clyde Building
+</li><li>308 Clyde Building
+</li><li>450 Crabtree Building
+</li></ul>
+<p>There are also a number of <a href="/wiki/index.php5/Department_labs" title="Department labs">department run computer labs</a>. Individual departments typically use computers with a similar look and feel to a CAEDM lab computer, but with additional resources specific to their students needs.  There may be additional software or hardware peripherals available to complete lab assignments.  Department faculty should make students aware of these resources.
+</p>
+<h3> <span class="mw-headline" id="Lab_Hours">Lab Hours</span></h3>
+<p>All CAEDM labs are open 24 hours a day, seven days a week -- if you can get in before the building closes. Buildings close between 10:45 and 11pm. They open around 6am. Buildings close early on Sunday.
+</p><p>Note: CAEDM maintenance occurs between 10pm Tuesday and 6am Wednesday, every week; during these times, your CAEDM experience may be unstable and/or non-functioning. Do not depend on <a href="/wiki/index.php5/Category:Services" title="Category:Services"> CAEDM services</a> during these hours. If you have problems outside of this time frame, please speak with a CAEDM Administrator.
+</p>
+<h3> <span class="mw-headline" id="Door_Code">Door Code</span></h3>
+<p>All three CAEDM labs require a door code to enter. The door code is given to a new user upon completion of <a href="/wiki/index.php5/Creating_a_CAEDM_Account" title="Creating a CAEDM Account" class="mw-redirect"> account creation</a>.  Existing users can view the current door code at any time from the CAEDM website <a rel="nofollow" class="external text" href="https://caedm.et.byu.edu/cms/doorcode.php">door code page</a>.  Individual <a href="/wiki/index.php5/Department_labs" title="Department labs">departments may sponsor computer labs</a> with different access restrictions.
+</p>
+<h3> <span class="mw-headline" id="Unattended_computers">Unattended computers</span></h3>
+<p>Lab computers left unattended for a number of minutes will lock their screens, after which,  they can only be unlocked by the user who is logged in. If left locked, the session will eventually time-out and the user will be automatically logged out.
+</p>
+<h3> <span class="mw-headline" id="Lost_and_found">Lost and found</span></h3>
+<p>Items left in the lab may be picked up by the custodial staff each night and taken to the <a rel="nofollow" class="external text" href="https://lostandfound.byu.edu">lost and found in the Wilkinson Center</a>.  If a CAEDM employee finds an item, or if a student turns in a lost item to a CAEDM employee, CAEDM will periodically take these items to the Wilkinson lost and found.  If you have recently lost an item, you may want to check with CAEDM, the building custodial staff, and the lost and found in the Wilkinson Center.
+</p>
+<pre>Wilkinson Center
+Lost and Found
+1055 WSC
+Call 801-422-3024
+</pre>
+<h2> <span class="mw-headline" id="Resources">Resources</span></h2>
+<p>An assortment of resources are availible in the labs including Windows and Linux computers, printing, plotting, scanning and external media reading/writing. 
+</p>
+<h3> <span class="mw-headline" id="Thin_Clients">Thin Clients</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/index.php5/Using_a_CAEDM_Computer_Video" title="Using a CAEDM Computer Video"><img alt="" src="/wiki/images/thumb/8/82/CAEDM_wYours.png/180px-CAEDM_wYours.png" width="180" height="135" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:CAEDM_wYours.png" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Video: Using a CAEDM Computer</div></div></div>
+<p>All CAEDM labs have Windows thin clients, which look like small desktop towers. Thin clients are lightweight computers that run client software to access remote computing resources like <a href="/wiki/index.php5/RGS" title="RGS">RGS</a> and <a href="/wiki/index.php5/Citrix" title="Citrix">Citrix</a>. Thin clients provide the same access experience to remote resources as compared to a full-blown workstation, but have no moving parts, require little maintenance, and last for many years.
+</p>
+<div style="clear:both;"></div>
+<h3> <span class="mw-headline" id="Printing_and_Plotting">Printing and Plotting</span></h3>
+<p>All <a href="/wiki/index.php5/Printing" title="Printing">printing</a> in CAEDM uses the <a href="/wiki/index.php5/Printing#CAEDM_Print_Driver" title="Printing"> CAEDM Print Driver</a>.  This system allows all printers to appear as one printer labelled "CAEDM." The only exceptions are plotters and specialty printers. Choose the CAEDM printer, then the software will prompt you to select which physical location will print the job. Printing is charged directly to the user's Signature Card. CAEDM Print driver download and <a href="/wiki/index.php5/Printing#CAEDM_Print_Driver" title="Printing"> installation instructions</a> are available.
+</p><p><a href="/wiki/index.php5/Plotting" title="Plotting"> Plotting requires special care and separate instructions</a>.
+</p>
+<table class="wikitable">
+
+<tr>
+<th> Lab
+</th>
+<th> B/W Printing
+</th>
+<th> Color Printing
+</th>
+<th> Plotting
+</th></tr>
+<tr>
+<td> 308 Clyde Building
+</td>
+<td> 8.5 x 11
+</td>
+<td> N/A
+</td>
+<td> N/A
+</td></tr>
+<tr>
+<td> 425 Clyde Building
+</td>
+<td> 8.5 x 11, 11 x 17
+</td>
+<td> 8.5 x 11, 11 x 17
+</td>
+<td> 42 x&#160;?? Glossy Poster
+</td></tr>
+<tr>
+<td> 450 Crabtree Building
+</td>
+<td> 8.5 x 11, 11 x 17
+</td>
+<td> 8.5 x 11, 11 x 17
+</td>
+<td> 24 x 36 CAD drawing
+</td></tr></table>
+<h3> <span class="mw-headline" id="Laptop_Stations">Laptop Stations</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:177px;"><a href="/wiki/index.php5/Using_a_CAEDM_laptop_station_Video" title="Using a CAEDM laptop station Video"><img alt="" src="/wiki/images/thumb/1/14/Laptop_station.jpg/175px-Laptop_station.jpg" width="175" height="218" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:Laptop_station.jpg" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Laptop stations are a convenient way to use your own computer in the lab.  <a href="/wiki/index.php5/Using_a_CAEDM_laptop_station_Video" title="Using a CAEDM laptop station Video">Watch laptop station video</a>.</div></div></div>
+<p>Laptop stations are present in all three CAEDM labs. These are empty lab station with a keyboard, mouse, monitor, and power available for connection to your personal laptop. To connect your laptop to a laptop station:
+</p>
+<ul><li>Plug your power supply into the power strip
+</li><li>Connect the mouse and the keyboard  to your USB
+</li><li>Connect the monitor to your VGA or DVI
+</li><li>Connect the Network cable to your Ethernet (Wireless is NOT recommended.)
+</li><li>Be sure you have <a href="/wiki/index.php5/Downloads" title="Downloads"> downloaded</a> these clients:
+<ul><li>Windows and Linux Graphics-intensive Applications: <a href="/wiki/index.php5/RGS" title="RGS">RGS</a>
+</li><li>Windows Applications: <a href="/wiki/index.php5/Citrix" title="Citrix">Citrix</a>
+</li><li>Linux Shell: <a href="/wiki/index.php5/SSH" title="SSH"> Putty/SSH</a>
+</li></ul>
+</li><li>Print from your laptop, follow <a href="/wiki/index.php5/Printing#CAEDM_Print_Driver" title="Printing"> these instructions</a>.
+</li></ul>
+<div style="clear:both;"></div>
+<h3> <span class="mw-headline" id="Digital_Sender_and_Scanner">Digital Sender and Scanner</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/index.php5/Using_the_CAEDM_digital_sender_Video" title="Using the CAEDM digital sender Video"><img alt="" src="/wiki/images/thumb/6/6d/Digital_Sender.png/180px-Digital_Sender.png" width="180" height="135" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:Digital_Sender.png" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>Video: Using the CAEDM digital sender</div></div></div>
+<p>The fastest and cleanest method to scan loose or bound pages into PDFs is to use the Digital Senders in CB425 or CT450. You can place a large stack of unstapled 8.5" x 11" paper face-up in the feeder tray and have it scanned into a single PDF. The resultant PDF is emailed to the address supplied on the interface of the scanner. Also, the top of the scanner lifts up to allow for bound pages to be scanned as well. You can have each page be its own PDF or a series of scans can be sent as one PDF.
+</p><p>The digital senders can also make copies. To make copies, choose "Workflow" from the main menu, followed by "Make Copies". Fill in the required information on screen.
+</p>
+<div style="clear:both;"></div>
+<h3> <span class="mw-headline" id="Special_Media_Stations_With_Scanners">Special Media Stations With Scanners</span></h3>
+<p>In addition to Thin Client computers, there are additional workstations called Scanning and Special Media Stations. These are currently located in the labs in CB425 and CT450.
+</p><p>Attached to these standard desktop-type computers are flat-bed scanners for scanning photographs, books, documents, and similar media. The computers also have media card readers for SD cards, CF cards, and other various memory cards.
+</p><p>Each computer has the following software installed:
+</p>
+<ul><li>Adobe Creative Suite
+<ul><li>Photoshop®
+</li><li>Illustrator®
+</li><li>InDesign®
+</li><li>Acrobat® Pro
+</li></ul>
+</li></ul>
+<h3> <span class="mw-headline" id="Group_Cubicles">Group Cubicles</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/index.php5/File:Groupcubicle.jpg" class="image"><img alt="" src="/wiki/images/thumb/3/30/Groupcubicle.jpg/180px-Groupcubicle.jpg" width="180" height="101" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/index.php5/File:Groupcubicle.jpg" class="internal" title="Enlarge"><img src="/wiki/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>All three <strong class="selflink">CAEDM labs</strong> have group cubicles. CAEDM has many other <a href="/wiki/index.php5/Group_Collaboration_Resources" title="Group Collaboration Resources">collaborative resources for groups</a>.</div></div></div>Group workspaces are segregated portions of the CAEDM labs for collaboration amongst students in the college. Each workspace has a single computer, a wide desk area, a white board and markers, and sound dampening walls surrounding the cubicle. As long as a group space is not occupied, it is available for your use. The minimum group size is 2 people.  Individuals will be asked to leave.  There is also a KVM Switch for connecting your laptop to the station. 
+<ul><li><a href="/wiki/index.php5/KVM_Instructions" title="KVM Instructions">KVM Instructions</a>
+</li></ul>
+<h3> <span class="mw-headline" id="Teaching_Assistants">Teaching Assistants</span></h3>
+<p>Faculty and departments hire TAs to help students with course specific assignments in the CAEDM labs.  TA hours and availability are assigned by their employers and can be found on course websites and syllabi.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 78/1000000
+Post‐expand include size: 604/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key mediawiki:pcache:idhash:45-0!*!0!!en!2!* and timestamp 20160512033533 -->
+</div><div class="printfooter">
+Retrieved from "<a href="https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Labs&amp;oldid=4170">https://caedm.et.byu.edu/wiki/index.php5?title=CAEDM_Labs&amp;oldid=4170</a>"</div>
+
+
+
+
+			</div>
+	</div><!-- #container -->
+
+ 	</div>     
+
+</div>
+
+
+<div id="footer-bottom">
+	
+		<div class="wrapper">
+					  <div class="region region-footer-bottom">
+					      <div id="block-block-1" class="block block-block first last odd">
+					      <div class="content">
+
+
+			<p class="rtecenter">
+						<div class="rtecenter" style="float: right; margin-right: -37px"><a align=right href="http://www.youtube.com/byucaedm"><img src="/wiki/skins/byuskin/template/img/youtube.png"></a></div>						<img src="/cms/images/byulogofooter.png" style="width: 300px;" usemap="#BYU">
+			<map name="BYU">
+				<area shape="rect" coords="0,0,105,45" href="http://www.byu.edu" />
+				<area shape="rect" coords="105,0,300,45" href="https://caedm.et.byu.edu" />
+				<area shape="rect" coords="0,45,300,100" href="http://www.et.byu.edu" />
+
+				</map>
+		<br />	
+			<div style="margin-top: 7.5px"><div><span style="color: rgb(128, 128, 128); line-height: 1.2em;"><a href="http://www.et.byu.edu/college-directory/CAEDM">Staff</a></span><span style="font-size:11px;">
+			<span style="color: rgb(128, 128, 128); line-height: 1.2em;"><a href="http://caedm.et.byu.edu/wiki/index.php5?title=Contact_Us">Contact Us</a></span></div></div>
+
+</p></div></div></div></div>
+
+							      		</div>
+									   
+
+
+
+</div><!-- #wrapper .hfeed -->
+<script type="text/javascript">
+jQuery(window).load(function() {
+  jQuery.getJSON(wgScriptPath + '/api.php?action=query&format=json&list=recentchanges&rctype=new&rclimit=5&rcnamespace=0', function(data) {
+  	var container = jQuery('#newestPages');
+  	container.empty();
+
+  	var results = data['query']['recentchanges'];
+  	var resultlen = results.length;
+  	for (i = 0; i < resultlen; i++) {
+  		var result = results[i];
+  		var timestamp = result['timestamp'];
+  		var title = result["title"];
+  		var encodedTitle = encodeURI(title);
+  		var year = timestamp.substring(2,4);
+  		var month = timestamp.substring(5,7);
+  		var day = timestamp.substring(8,10);
+		var path = wgArticlePath.replace('\$1', encodedTitle);
+
+  		var formatdate = month + "." + day + "." + year;
+  		//alert(result['title']);
+  		container.append('<li>' + formatdate + ' - <a href="' + wgServer + path + '">' + title + '</a></li>');
+  	}
+  });
+});
+</script>
+</script>
+
+<script type='text/javascript' src='/wiki/skins/byuskin/template/js/script.js?303'></script>
+</body>
+</html>
+		
